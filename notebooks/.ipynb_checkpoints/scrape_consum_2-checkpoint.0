@@ -2,7 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-   "execution_count": 483,
+   "execution_count": 14,
    "id": "da225d2c",
    "metadata": {},
    "outputs": [],
@@ -36,7 +36,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 484,
+   "execution_count": 15,
    "id": "b4b1beae",
    "metadata": {},
    "outputs": [],
@@ -56,7 +56,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 485,
+   "execution_count": 16,
    "id": "0c286a1e",
    "metadata": {},
    "outputs": [],
@@ -68,7 +68,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 486,
+   "execution_count": 17,
    "id": "dd3f688c",
    "metadata": {},
    "outputs": [],
@@ -116,7 +116,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 487,
+   "execution_count": 18,
    "id": "6461b5b9",
    "metadata": {},
    "outputs": [],
@@ -149,7 +149,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 488,
+   "execution_count": 19,
    "id": "72d01543",
    "metadata": {},
    "outputs": [],
@@ -166,7 +166,7 @@
     "    \n",
     "    #t_stamp = str(datetime.datetime.now()).split(\".\")[0].replace(\" \",\"_\")\n",
     "    \n",
-    "    file_path = f\"{file_name}_10-03.csv\"\n",
+    "    file_path = f\"{file_name}.csv\"\n",
     "    \n",
     "    data_frame.to_csv(file_path, index=False)\n",
     "    print(f\"DataFrame successfully exported to {file_path}\")"
@@ -182,7 +182,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 489,
+   "execution_count": 20,
    "id": "aa701b5a",
    "metadata": {},
    "outputs": [
@@ -226,7 +226,7 @@
        "Index: []"
       ]
      },
-     "execution_count": 489,
+     "execution_count": 20,
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -238,7 +238,7 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 490,
+   "execution_count": 22,
    "id": "547125f8",
    "metadata": {},
    "outputs": [
@@ -269,7 +269,6 @@
       "Bebidas -- Finos y dulces -- 1 pagina/s 12 elementos\n",
       "Bebidas -- Gaseosas y sodas -- 1 pagina/s 6 elementos\n",
       "Bebidas -- Isotónicas y energéticas -- 3 pagina/s 43 elementos\n",
-      "terrible\n",
       "Bebidas -- Licores y vermouth -- 9 pagina/s 166 elementos\n",
       "Bebidas -- Refrescos -- 8 pagina/s 142 elementos\n",
       "Bebidas -- Sangrías y combinados base vino -- 1 pagina/s 16 elementos\n",
@@ -281,7 +280,6 @@
       "Frescos -- Carnicería corte -- 4 pagina/s 69 elementos\n",
       "Frescos -- Charcutería -- 14 pagina/s 275 elementos\n",
       "Frescos -- Charcutería corte -- 4 pagina/s 76 elementos\n",
-      "terrible\n",
       "Frescos -- Quesos -- 11 pagina/s 219 elementos\n",
       "Frescos -- Quesos corte -- 3 pagina/s 50 elementos\n",
       "Frescos -- Pescadería -- 7 pagina/s 126 elementos\n",
@@ -294,69 +292,19 @@
       "Horno -- Rosquilletas, picos y snacks -- 1 pagina/s 8 elementos\n",
       "Horno -- Bollería dulce -- 3 pagina/s 52 elementos\n",
       "Horno -- Bollería salada -- 1 pagina/s 18 elementos\n",
-      "Horno -- Tartas y repostería -- 3 pagina/s 55 elementos\n",
-      "Platos preparados -- Preparados refrigerados -- 8 pagina/s 160 elementos\n",
-      "Platos preparados -- Preparados en conserva -- 5 pagina/s 93 elementos\n",
-      "Congelados y helados -- Carnes -- 1 pagina/s 4 elementos\n",
-      "Congelados y helados -- Pescados y mariscos -- 4 pagina/s 68 elementos\n",
-      "Congelados y helados -- Platos preparados -- 13 pagina/s 253 elementos\n",
-      "Congelados y helados -- Precocinados -- 3 pagina/s 50 elementos\n",
-      "Congelados y helados -- Frutas y Verduras -- 3 pagina/s 48 elementos\n",
-      "Congelados y helados -- Pizza y bases congeladas -- 3 pagina/s 43 elementos\n",
-      "Congelados y helados -- Hielo -- 1 pagina/s 3 elementos\n",
-      "Congelados y helados -- Helados -- 6 pagina/s 116 elementos\n",
-      "Congelados y helados -- Horchatas y granizados -- 1 pagina/s 6 elementos\n",
-      "Congelados y helados -- Pan, churros y porras -- 1 pagina/s 3 elementos\n",
-      "Infantil -- Alimentación infantil -- 5 pagina/s 91 elementos\n",
-      "Infantil -- Leches infantiles -- 1 pagina/s 15 elementos\n",
-      "Infantil -- Higiene -- 3 pagina/s 44 elementos\n",
-      "Infantil -- Pañales -- 2 pagina/s 39 elementos\n",
-      "Infantil -- Puericultura -- 1 pagina/s 20 elementos\n",
-      "Droguería y limpieza -- Celulosa -- 4 pagina/s 71 elementos\n",
-      "Droguería y limpieza -- Cuidado ropa -- 8 pagina/s 155 elementos\n",
-      "Droguería y limpieza -- Limpieza hogar -- 9 pagina/s 162 elementos\n",
-      "Droguería y limpieza -- Limpieza cocina -- 3 pagina/s 57 elementos\n",
-      "Droguería y limpieza -- Limpieza baños -- 4 pagina/s 66 elementos\n",
-      "Droguería y limpieza -- Accesorios y utensilios limpieza -- 6 pagina/s 101 elementos\n",
-      "Droguería y limpieza -- Ambientadores -- 5 pagina/s 86 elementos\n",
-      "Droguería y limpieza -- Insecticidas -- 2 pagina/s 26 elementos\n",
-      "Droguería y limpieza -- Limpieza calzado y accesorios -- 3 pagina/s 49 elementos\n",
-      "Cuidado personal -- Cuidado del cabello -- 21 pagina/s 407 elementos\n",
-      "Cuidado personal -- Cuidado corporal -- 4 pagina/s 61 elementos\n",
-      "Cuidado personal -- Cuidado facial -- 7 pagina/s 139 elementos\n",
-      "Cuidado personal -- Cuidado manos y pies -- 3 pagina/s 42 elementos\n",
-      "Cuidado personal -- Higiene corporal -- 5 pagina/s 87 elementos\n",
-      "Cuidado personal -- Desodorante -- 5 pagina/s 85 elementos\n",
-      "Cuidado personal -- Higiene íntima -- 5 pagina/s 85 elementos\n",
-      "Cuidado personal -- Higiene bucal -- 6 pagina/s 119 elementos\n",
-      "Cuidado personal -- Afeitado y cuidado masculino -- 4 pagina/s 62 elementos\n",
-      "Cuidado personal -- Solares -- 1 pagina/s 13 elementos\n",
-      "Cuidado personal -- Maquillaje -- 18 pagina/s 349 elementos\n",
-      "Cuidado personal -- Depilación -- 2 pagina/s 38 elementos\n",
-      "Cuidado personal -- Colonias y perfumes -- 9 pagina/s 164 elementos\n",
-      "Cuidado personal -- Accesorios y complementos -- 3 pagina/s 49 elementos\n",
-      "Cuidado personal -- Parafarmacia -- 8 pagina/s 157 elementos\n",
-      "Mascotas -- Comida para gatos -- 4 pagina/s 74 elementos\n",
-      "Mascotas -- Comida para perros -- 5 pagina/s 88 elementos\n",
-      "Mascotas -- Comida para otras mascotas -- 1 pagina/s 19 elementos\n",
-      "Mascotas -- Cuidado e higiene -- 1 pagina/s 14 elementos\n",
-      "Bazar -- Promocionales -- 2 pagina/s 26 elementos\n",
-      "Bazar -- Libros -- 2 pagina/s 35 elementos\n",
-      "Bazar -- Menaje -- 1 pagina/s 13 elementos\n",
-      "Bazar -- Conservación alimentos y moldes -- 2 pagina/s 32 elementos\n",
-      "Bazar -- Desechables -- 2 pagina/s 24 elementos\n",
-      "Bazar -- Jardin y exterior -- 1 pagina/s 14 elementos\n",
-      "Bazar -- Automóvil y bricolaje -- 1 pagina/s 4 elementos\n",
-      "Bazar -- Electricidad, pilas y bombillas -- 2 pagina/s 26 elementos\n",
-      "Bazar -- Velas -- 2 pagina/s 36 elementos\n",
-      "DataFrame successfully exported to consum_10-03.csv\n"
+      "Horno -- Tartas y repostería -- 3 pagina/s 55 elementos\n"
      ]
     },
     {
-     "name": "stderr",
-     "output_type": "stream",
-     "text": [
-      "sh: Consum: command not found\n"
+     "ename": "TimeoutException",
+     "evalue": "Message: \nStacktrace:\n0   chromedriver                        0x0000000100f942a8 chromedriver + 4625064\n1   chromedriver                        0x0000000100f8be53 chromedriver + 4591187\n2   chromedriver                        0x0000000100b8ae6a chromedriver + 392810\n3   chromedriver                        0x0000000100bd641d chromedriver + 701469\n4   chromedriver                        0x0000000100bd65b1 chromedriver + 701873\n5   chromedriver                        0x0000000100c1a1c4 chromedriver + 979396\n6   chromedriver                        0x0000000100bf889d chromedriver + 841885\n7   chromedriver                        0x0000000100c1768f chromedriver + 968335\n8   chromedriver                        0x0000000100bf8613 chromedriver + 841235\n9   chromedriver                        0x0000000100bc93da chromedriver + 648154\n10  chromedriver                        0x0000000100bc9d1e chromedriver + 650526\n11  chromedriver                        0x0000000100f54a70 chromedriver + 4364912\n12  chromedriver                        0x0000000100f59e36 chromedriver + 4386358\n13  chromedriver                        0x0000000100f396de chromedriver + 4253406\n14  chromedriver                        0x0000000100f5ab79 chromedriver + 4389753\n15  chromedriver                        0x0000000100f2ba29 chromedriver + 4196905\n16  chromedriver                        0x0000000100f7ab28 chromedriver + 4520744\n17  chromedriver                        0x0000000100f7ad07 chromedriver + 4521223\n18  chromedriver                        0x0000000100f8ba93 chromedriver + 4590227\n19  libsystem_pthread.dylib             0x00007fff2040a8fc _pthread_start + 224\n20  libsystem_pthread.dylib             0x00007fff20406443 thread_start + 15\n",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mTimeoutException\u001b[0m                          Traceback (most recent call last)",
+      "Cell \u001b[0;32mIn[22], line 32\u001b[0m\n\u001b[1;32m     30\u001b[0m navigate(keys)\n\u001b[1;32m     31\u001b[0m \u001b[38;5;66;03m# Locate the selected subcategory inside de category - click - loads page\u001b[39;00m\n\u001b[0;32m---> 32\u001b[0m wait\u001b[38;5;241m.\u001b[39muntil(EC\u001b[38;5;241m.\u001b[39mvisibility_of_element_located((By\u001b[38;5;241m.\u001b[39mLINK_TEXT, \u001b[38;5;124mf\u001b[39m\u001b[38;5;124m\"\u001b[39m\u001b[38;5;132;01m{\u001b[39;00mval\u001b[38;5;132;01m}\u001b[39;00m\u001b[38;5;124m\"\u001b[39m)))\u001b[38;5;241m.\u001b[39mclick()\n\u001b[1;32m     34\u001b[0m time\u001b[38;5;241m.\u001b[39msleep(\u001b[38;5;241m5\u001b[39m)\n\u001b[1;32m     36\u001b[0m \u001b[38;5;66;03m# Nº of products in this subcategory:\u001b[39;00m\n",
+      "File \u001b[0;32m~/miniconda3/envs/ironhack/lib/python3.11/site-packages/selenium/webdriver/support/wait.py:105\u001b[0m, in \u001b[0;36mWebDriverWait.until\u001b[0;34m(self, method, message)\u001b[0m\n\u001b[1;32m    103\u001b[0m     \u001b[38;5;28;01mif\u001b[39;00m time\u001b[38;5;241m.\u001b[39mmonotonic() \u001b[38;5;241m>\u001b[39m end_time:\n\u001b[1;32m    104\u001b[0m         \u001b[38;5;28;01mbreak\u001b[39;00m\n\u001b[0;32m--> 105\u001b[0m \u001b[38;5;28;01mraise\u001b[39;00m TimeoutException(message, screen, stacktrace)\n",
+      "\u001b[0;31mTimeoutException\u001b[0m: Message: \nStacktrace:\n0   chromedriver                        0x0000000100f942a8 chromedriver + 4625064\n1   chromedriver                        0x0000000100f8be53 chromedriver + 4591187\n2   chromedriver                        0x0000000100b8ae6a chromedriver + 392810\n3   chromedriver                        0x0000000100bd641d chromedriver + 701469\n4   chromedriver                        0x0000000100bd65b1 chromedriver + 701873\n5   chromedriver                        0x0000000100c1a1c4 chromedriver + 979396\n6   chromedriver                        0x0000000100bf889d chromedriver + 841885\n7   chromedriver                        0x0000000100c1768f chromedriver + 968335\n8   chromedriver                        0x0000000100bf8613 chromedriver + 841235\n9   chromedriver                        0x0000000100bc93da chromedriver + 648154\n10  chromedriver                        0x0000000100bc9d1e chromedriver + 650526\n11  chromedriver                        0x0000000100f54a70 chromedriver + 4364912\n12  chromedriver                        0x0000000100f59e36 chromedriver + 4386358\n13  chromedriver                        0x0000000100f396de chromedriver + 4253406\n14  chromedriver                        0x0000000100f5ab79 chromedriver + 4389753\n15  chromedriver                        0x0000000100f2ba29 chromedriver + 4196905\n16  chromedriver                        0x0000000100f7ab28 chromedriver + 4520744\n17  chromedriver                        0x0000000100f7ad07 chromedriver + 4521223\n18  chromedriver                        0x0000000100f8ba93 chromedriver + 4590227\n19  libsystem_pthread.dylib             0x00007fff2040a8fc _pthread_start + 224\n20  libsystem_pthread.dylib             0x00007fff20406443 thread_start + 15\n"
      ]
     }
    ],
@@ -368,7 +316,7 @@
     "driver.maximize_window()\n",
     "\n",
     "#Enter de supermarket shop place:\n",
-    "entrar_en_consum()\n",
+    "enter_consum()\n",
     "\n",
     "expand_cat_menu() #Expande menu categories\n",
     "\n",
@@ -384,8 +332,11 @@
     "# Itereate for each category and subcategory and acces the page\n",
     "for keys, values in cat_subcat_dict.items():\n",
     "    os.system(f\"say Entrando en  {keys}\")\n",
+    "    \n",
     "    for val in values:\n",
+    "        \n",
     "        os.system(f\"say Entrando en {val}\")\n",
+    "        \n",
     "        #Function that acces a given category\n",
     "        navigate(keys)\n",
     "        # Locate the selected subcategory inside de category - click - loads page\n",
@@ -405,30 +356,43 @@
     "        for i in range(int(total_paginas)):\n",
     "            \n",
     "            os.system(f\"say pagina {i+1} de {total_paginas}\")\n",
-    "    \n",
-    "            wait.until(EC.visibility_of_element_located((By.XPATH, \"//cmp-widget-product[contains(@class, 'grid__widget--prod')]\")))\n",
-    "            products = driver.find_elements(By.XPATH, \"//cmp-widget-product[contains(@class, 'grid__widget--prod')]\")\n",
-    "\n",
-    "            time.sleep(3)\n",
-    "\n",
+    "            \n",
+    "            time.sleep(2)\n",
+    "            \n",
+    "            \"-------No tengo claro porque pongo el try pero bueno -------------------\"\n",
+    "            \n",
     "            try:\n",
+    "    \n",
+    "                wait.until(EC.visibility_of_element_located((By.XPATH, \"//cmp-widget-product[contains(@class, 'grid__widget--prod')]\")))\n",
+    "                products = driver.find_elements(By.XPATH, \"//cmp-widget-product[contains(@class, 'grid__widget--prod')]\")\n",
+    "\n",
+    "                time.sleep(2)\n",
+    "\n",
+    "                prods = len(products)\n",
+    "                add = 0\n",
+    "\n",
     "                for p in products:\n",
-    "                    \n",
     "                    row = {\n",
-    "                    \"categoria\":keys , \n",
-    "                    \"subcategoria\": val, \n",
-    "                    \"descripcion\": p.find_element(By.XPATH, \"//h3[contains(@class, 'widget-prod__info-description')]\").text, \n",
-    "                    \"unidades\": p.find_element(By.XPATH, \"//div[contains(@class, 'widget-prod__info-unitprice')]\").text, \n",
-    "                    \"precio\": p.find_element(By.XPATH, \"//div[contains(@class, 'widget-prod__price')]\").text,\n",
-    "                    \"marca\": p.find_element(By.XPATH, \"//div[contains(@class, 'widget-prod__info-brand')]\").text\n",
-    "                    }\n",
+    "                        \"categoria\":keys , \n",
+    "                        \"subcategoria\": val, \n",
+    "                        \"descripcion\": p.find_element(By.CSS_SELECTOR, \"[class*= 'widget-prod__info-description']\").text, \n",
+    "                        \"unidades\": p.find_element(By.CSS_SELECTOR, \"[class*= 'widget-prod__info-unitprice']\").text, \n",
+    "                        \"precio\": p.find_element(By.CSS_SELECTOR, \"[class*= 'widget-prod__price']\").text,\n",
+    "                        \"marca\": p.find_element(By.CSS_SELECTOR, \"[class*= 'widget-prod__info-brand']\").text\n",
+    "                            }\n",
     "\n",
     "                    df = pd.concat([df, pd.DataFrame([row])], ignore_index=True)\n",
     "\n",
-    "                    #print(f\"exito en {keys} --- {val}\")\n",
+    "                    add +=1 \n",
+    "\n",
+    "                os.system(f\"say {add} de {prods} productos descargados\")\n",
+    "                \n",
     "            except:\n",
-    "                print(\"terrible\")\n",
-    "                continue\n",
+    "                    print(\"Error al descargar los poductos\")\n",
+    "                    continue # si no los carga, pasa a la pagina siguiente / next category\n",
+    "                    \n",
+    "            \"-------------- Aqui acaba ------------------------------\"       \n",
+    "            \n",
     "\n",
     "            if i == range(int(total_paginas))[-1]:\n",
     "                break\n",
@@ -437,18 +401,18 @@
     "                actions.move_to_element(next_page).perform()\n",
     "                wait.until(EC.visibility_of_element_located((By.CLASS_NAME, \"next-page\"))).click()\n",
     "                time.sleep(1)\n",
+    "                    \n",
     "                \n",
-    "            \n",
     "        status = f\"{keys} -- {val} -- {total_paginas} pagina/s {total_elements} elementos\"\n",
     "        print(status)\n",
     "            \n",
-    "os.system(\"Consum ha sido hackeada con éxito\")\n",
+    "os.system(\"say Consum ha sido hackeada con éxito\")\n",
     "export_to_csv(df,\"consum\")"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 467,
+   "execution_count": 23,
    "id": "075f83d4",
    "metadata": {},
    "outputs": [
@@ -456,13 +420,49 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "DataFrame successfully exported to consum-half_10-03.csv\n"
+      "DataFrame successfully exported to consum-01.csv\n"
      ]
     }
    ],
    "source": [
-    "export_to_csv(df,\"consum\")"
+    "export_to_csv(df,\"consum-01\")"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 25,
+   "id": "47d91744",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "sh: Diccionario: command not found\n"
+     ]
+    },
+    {
+     "data": {
+      "text/plain": [
+       "32512"
+      ]
+     },
+     "execution_count": 25,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "# hacer algo que en vez de imprimir en pantalla te lo imprima todo en un archivo de texto y luego lo puedes revisar "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "1b539d07",
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
