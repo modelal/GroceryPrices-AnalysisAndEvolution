@@ -1,0 +1,1230 @@
+date,order_num,description,category,subcategory,units,price_eu,price_order,price_now
+2020-01-10,302316,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,9.5,9.5,9.9
+2019-06-20,208575,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,3.69,3.69,9.9
+2022-09-28,470822,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,12.7,12.7,9.9
+2021-09-28,209834,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,11,11,9.9
+2022-09-11,786946,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,14.7,14.7,9.9
+2019-06-19,207666,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,9.97,9.97,9.9
+2022-07-13,996926,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,12.7,12.7,9.9
+2021-04-16,8135057,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",4,38,9.5,9.9
+2021-08-05,8403972,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,9.5,9.5,9.9
+2020-10-09,6519926,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,9.5,9.5,9.9
+2022-07-10,12804912,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,12.7,12.7,9.9
+2021-12-16,10822769,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,11,11,9.9
+2023-03-04,13879881,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.34,2.34,3.3
+2023-02-04,13640454,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.34,2.34,3.3
+2023-01-14,13507140,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.34,2.34,3.3
+2023-01-04,13397754,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.34,2.34,3.3
+2022-12-21,13315781,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.45,2.45,3.3
+2022-11-09,13029815,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",2,4.3,2.15,3.3
+2022-10-06,12793662,"Aceite de oliva virgen extra Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,2.15,2.15,3.3
+2021-12-16,10822769,"Limón exprimido Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,3.59,3.59,1
+2022-02-22,11422261,"Limón exprimido Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,3.59,3.59,1
+2023-02-04,13640454,"Sal fina Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,0.3,0.3,0.35
+2022-12-07,13220829,"Bicarbonato sódico Hacendado","Aceite, especias y salsas","Aceite, vinagre y sal",1,1,1,1.1
+2023-03-04,13879881,"Hierbas provenzales Hacendado","Aceite, especias y salsas",Especias,1,1.1,1.1,1.2
+2019-06-20,208575,"Pimentón dulce de la Vera Hacendado","Aceite, especias y salsas",Especias,1,0.9,0.9,1.75
+2023-02-25,13821013,"Pimentón picante Hacendado","Aceite, especias y salsas",Especias,1,1.35,1.35,1.35
+2022-12-07,13220829,"Canela molida Hacendado","Aceite, especias y salsas",Especias,1,0.85,0.85,0.95
+2022-12-07,13220829,"Cúrcuma Hacendado","Aceite, especias y salsas",Especias,1,1.25,1.25,1.25
+2022-12-07,13220829,"Jengibre molido Hacendado","Aceite, especias y salsas",Especias,1,1.4,1.4,1.65
+2022-12-12,13266605,"Piñones Hacendado","Aceite, especias y salsas",Especias,1,1.5,1.5,2.84
+2023-02-25,13821013,"Mostaza clásica Hacendado","Aceite, especias y salsas","Mayonesa, ketchup y mostaza",1,1.25,1.25,1.35
+2020-01-10,302316,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2019-02-27,125935,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2018-04-12,73955,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2022-07-13,996926,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.85,1.85,2.4
+2019-01-31,107492,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2022-09-28,470822,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,2.2,2.2,2.4
+2018-11-13,61858,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",2,3.4,1.7,2.4
+2021-09-09,101295,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",2,3.4,1.7,2.4
+2022-09-11,786946,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,2.15,2.15,2.4
+2020-08-27,134160,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2019-06-19,207666,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2020-01-10,302316,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2019-02-27,125935,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2018-04-12,73955,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2022-07-13,996926,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.85,1.85,2.4
+2019-01-31,107492,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2022-09-28,470822,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,2.2,2.2,2.4
+2018-11-13,61858,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",2,3.4,1.7,2.4
+2021-09-09,101295,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",2,3.4,1.7,2.4
+2022-09-11,786946,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,2.15,2.15,2.4
+2020-08-27,134160,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2019-06-19,207666,"Tomate frito receta artesana Hacendado","Aceite, especias y salsas","Otras salsas",1,1.7,1.7,2.4
+2023-01-11,13449668,"Salsa barbacoa Hacendado","Aceite, especias y salsas","Otras salsas",1,1.15,1.15,1.15
+2022-07-13,996926,"Salsa fresca Queso Hacendado","Aceite, especias y salsas","Otras salsas",1,1.3,1.3,1.45
+2023-02-25,13821013,"Salsa césar Hacendado","Aceite, especias y salsas","Otras salsas",1,1.4,1.4,1.4
+2023-01-11,13449668,"Salsa césar Hacendado","Aceite, especias y salsas","Otras salsas",1,1.25,1.25,1.4
+2022-11-30,13151497,"Salsa césar Hacendado","Aceite, especias y salsas","Otras salsas",1,1.25,1.25,1.4
+2022-10-13,12838037,"Salsa césar Hacendado","Aceite, especias y salsas","Otras salsas",1,1.25,1.25,1.4
+2023-03-11,13945376,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2023-03-04,13879881,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2023-02-04,13640454,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2023-01-28,13580934,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2023-01-14,13507140,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2023-01-04,13397754,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-12-21,13315781,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-12-14,13253776,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-11-30,13151497,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-11-16,13069090,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-10-31,12950475,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-10-20,12878660,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-10-06,12793662,"Chili con carne Hacendado","Aceite, especias y salsas","Otras salsas",1,2.6,2.6,2.65
+2022-12-12,13266605,"Agua mineral con gas grande Vichy Catalan","Agua y refrescos",Agua,4,1.24,0.31,1.49
+2022-07-10,12804912,"Agua mineral con gas grande Vichy Catalan","Agua y refrescos",Agua,2,0.62,0.31,1.49
+2022-11-30,13151497,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2022-11-16,13069090,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2022-11-09,13029815,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2022-10-31,12950475,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2022-10-20,12878660,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2022-10-06,12793662,"Refresco Coca-Cola Zero azúcar","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2023-03-11,13945376,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,9.12,9.12,10.44
+2023-03-04,13879881,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,9.12,9.12,10.44
+2023-02-11,13703740,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,9.84,9.84,10.44
+2023-01-14,13507140,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2023-01-11,13449668,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2023-01-04,13397754,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2022-12-28,13374140,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2022-12-21,13315781,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,8.64,8.64,10.44
+2022-12-07,13220829,"Refresco Coca-Cola Zero Zero","Agua y refrescos","Refresco de cola",1,9.36,9.36,10.44
+2019-02-27,125935,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.15,2.15,1.8
+2022-09-28,470822,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.25,2.25,1.8
+2018-11-13,61858,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.15,2.15,1.8
+2019-06-19,207666,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.15,2.15,1.8
+2021-09-07,9115773,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.15,2.15,1.8
+2022-07-10,12804912,"Aceitunas manzanilla rellenas de anchoa Hacendado reducidas en sal",Aperitivos,"Aceitunas y encurtidos",1,2.25,2.25,1.8
+2019-06-20,208575,"Aceitunas rellenas de anchoa Hacendado",Aperitivos,"Aceitunas y encurtidos",1,3.1,3.1,1.65
+2019-02-27,125935,"Aceitunas negras Hacendado a rodajas",Aperitivos,"Aceitunas y encurtidos",1,1.5,1.5,2.2
+2019-10-04,156155,"Aceitunas negras Hacendado a rodajas",Aperitivos,"Aceitunas y encurtidos",1,1.5,1.5,2.2
+2018-11-13,61858,"Aceitunas negras Hacendado a rodajas",Aperitivos,"Aceitunas y encurtidos",1,1.5,1.5,2.2
+2022-07-10,12804912,"Aceitunas negras Hacendado a rodajas",Aperitivos,"Aceitunas y encurtidos",1,1.8,1.8,2.2
+2022-12-12,13266605,"Banderillas picantes Hacendado",Aperitivos,"Aceitunas y encurtidos",2,5,2.5,1.55
+2022-07-10,12804912,"Banderillas picantes Hacendado",Aperitivos,"Aceitunas y encurtidos",1,2.25,2.25,1.55
+2023-01-21,13546313,"Anacardo natural Hacendado",Aperitivos,"Frutos secos y fruta desecada",1,2.5,2.5,2.3
+2019-06-20,208575,"Almendra frita y salada Hacendado pelada",Aperitivos,"Frutos secos y fruta desecada",1,3.8,3.8,2.55
+2023-03-04,13879881,"Arroz largo Hacendado","Arroz, legumbres y pasta",Arroz,1,1.3,1.3,1.3
+2023-02-04,13640454,"Arroz largo Hacendado","Arroz, legumbres y pasta",Arroz,1,1.3,1.3,1.3
+2022-12-14,13253776,"Arroz basmati aromático Hacendado","Arroz, legumbres y pasta",Arroz,1,2.5,2.5,2.54
+2022-02-22,11422261,"Arroz redondo Sabroz","Arroz, legumbres y pasta",Arroz,2,2.1,1.05,2.68
+2020-01-10,302316,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.4,0.7,0.71
+2019-02-27,125935,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.7,0.7,0.71
+2020-10-01,466635,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.4,0.7,0.71
+2018-04-12,73955,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.4,0.7,0.71
+2019-01-31,107492,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.7,0.7,0.71
+2022-09-28,470822,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.5,0.75,0.71
+2022-04-02,986079,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.6,0.8,0.71
+2018-11-13,61858,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.54,0.54,0.71
+2021-09-09,101295,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.34,0.67,0.71
+2020-08-27,134160,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.4,0.7,0.71
+2022-07-13,996926,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.56,0.78,0.71
+2020-09-16,6598904,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.08,0.54,0.71
+2020-08-28,140937,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.7,0.7,0.71
+2021-02-18,22016,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.54,0.54,0.71
+2020-09-18,238052,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.7,0.7,0.71
+2020-11-07,959862,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.7,0.7,0.71
+2022-02-22,11422261,"Garbanzo cocido Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.8,0.8,0.71
+2021-02-18,22016,"Garbanzo pedrosillano Hacendado","Arroz, legumbres y pasta",Legumbres,1,1.99,1.99,1.95
+2022-12-12,13266605,"Garbanzo pedrosillano Hacendado","Arroz, legumbres y pasta",Legumbres,1,2,2,1.95
+2018-04-12,73955,"Alubia blanca Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.18,0.59,1.85
+2018-11-13,61858,"Alubia blanca Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.5,0.5,1.85
+2020-01-10,302316,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,2,0.98,0.49,2.1
+2020-10-22,404271,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,2,0.98,0.49,2.1
+2021-09-09,101295,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.1,0.55,2.1
+2020-08-27,134160,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.49,0.49,2.1
+2022-12-12,13266605,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,1,1.6,1.6,2.1
+2022-07-10,12804912,"Lenteja pardina Hacendado","Arroz, legumbres y pasta",Legumbres,1,1.6,1.6,2.1
+2019-02-27,125935,"Lenteja Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.18,0.59,1.88
+2020-10-01,466635,"Lenteja Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.18,0.59,1.88
+2018-04-12,73955,"Lenteja Hacendado","Arroz, legumbres y pasta",Legumbres,2,1.18,0.59,1.88
+2018-11-13,61858,"Lenteja Hacendado","Arroz, legumbres y pasta",Legumbres,1,0.59,0.59,1.88
+2018-11-13,61858,"Pajaritas vegetales Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,0.69,0.69,1.1
+2021-11-11,10404138,"Macarrón fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,0.9,0.9,0.82
+2023-01-21,13546313,"Pasta tiburón Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,0.76,0.76,0.82
+2019-05-22,185199,"Spaghetti fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",2,1.5,0.75,0.82
+2019-05-09,278125,"Spaghetti fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",2,1.5,0.75,0.82
+2021-08-05,8403972,"Spaghetti fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,0.73,0.73,0.82
+2022-07-10,12804912,"Spaghetti fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,1.2,1.2,0.82
+2021-11-11,10404138,"Spaghetti fino Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,0.9,0.9,0.82
+2023-02-04,13640454,"Spaghetti Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,1.24,1.24,0.82
+2022-10-06,12793662,"Spaghetti Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,1.2,1.2,0.82
+2018-11-13,61858,"Pasta fresca gnocchi Hacendado","Arroz, legumbres y pasta","Pasta y fideos",1,1.09,1.09,1.12
+2018-04-12,73955,"Azúcar moreno de caña en sobres Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,1.87,1.87,1.6
+2019-05-22,185199,"Azúcar moreno de caña en sobres Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,1.87,1.87,1.6
+2023-03-04,13879881,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2023-02-04,13640454,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-12-28,13374140,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-12-21,13315781,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-11-23,13117832,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-11-16,13069090,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-11-09,13029815,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-10-20,12878660,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-10-13,12838037,"Edulcorante en sobres stevia Hacendado","Azúcar, caramelos y chocolate","Azúcar y edulcorante",1,2,2,2
+2022-11-16,13069090,"Gotas de chocolate negro para fundir Hacendado","Azúcar, caramelos y chocolate",Chocolate,2,3.2,1.6,2
+2022-11-16,13069090,"Gotas de chocolate negro para fundir Hacendado","Azúcar, caramelos y chocolate",Chocolate,2,3.2,1.6,2
+2021-09-07,9115773,"Chocolate con leche extrafino Nestlé","Azúcar, caramelos y chocolate",Chocolate,2,1.9,0.95,1.4
+2022-12-12,13266605,"Barritas de barquillo Huesitos bañadas de chocolate con leche","Azúcar, caramelos y chocolate",Chocolate,1,2,2,2.45
+2022-07-10,12804912,"Barritas de barquillo Huesitos bañadas de chocolate con leche","Azúcar, caramelos y chocolate",Chocolate,1,2,2,2.45
+2022-12-07,13220829,"Crema de cacahuete 100% Crunchy Hacendado","Azúcar, caramelos y chocolate",Chocolate,1,3.1,3.1,3.05
+2021-09-07,9115773,"Loción corporal infantil hidratante Deliplus",Bebé,"Higiene y cuidado",1,3.6,3.6,3.65
+2022-11-30,13151497,"Toallitas bebé frescas & perfumadas Deliplus",Bebé,"Toallitas y pañales",1,1.05,1.05,1.05
+2020-10-20,6858326,"Vino tinto D.O Valdepeñas Viña Albali reserva",Bodega,"Vino tinto",1,2.9,2.9,3.7
+2021-12-16,10822769,"Cacao soluble en sobres Hacendado","Cacao, café e infusiones","Cacao soluble y chocolate a la taza",1,14.95,14.95,1.3
+2021-12-16,10822769,"Café en cápsula Colombia Hacendado","Cacao, café e infusiones","Café cápsula y monodosis",1,3.75,3.75,3.65
+2023-03-11,13945376,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3.2,3.2,3.35
+2023-02-04,13640454,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3.2,3.2,3.35
+2023-01-04,13397754,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3,3,3.35
+2022-11-16,13069090,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,3.35
+2022-11-09,13029815,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,3.35
+2022-10-31,12950475,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,3.35
+2023-03-11,13945376,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3.2,3.2,1.75
+2023-02-04,13640454,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3.2,3.2,1.75
+2023-01-04,13397754,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3,3,1.75
+2022-11-16,13069090,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,1.75
+2022-11-09,13029815,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,1.75
+2022-10-31,12950475,"Café molido natural Hacendado","Cacao, café e infusiones","Café molido y en grano",1,2.7,2.7,1.75
+2018-04-12,73955,"Café molido natural Hacendado Espresso","Cacao, café e infusiones","Café molido y en grano",1,1.05,1.05,2.2
+2021-12-16,10822769,"Café molido Colombia Hacendado","Cacao, café e infusiones","Café molido y en grano",1,3.45,3.45,3.2
+2021-02-18,22016,"Té Chai Hacendado","Cacao, café e infusiones","Té e infusiones",1,1.55,1.55,1.4
+2021-02-18,22016,"Infusión Cola de caballo Hacendado","Cacao, café e infusiones","Té e infusiones",1,1.8,1.8,1.2
+2022-11-30,13151497,"Pechugas de pavo pimentón",Carne,"Aves y pollo",1,5.09,5.09,4.92
+2022-11-30,13151497,"Pechugas de pavo pimentón",Carne,"Aves y pollo",1,5.09,5.09,4.92
+2022-10-13,12838037,"Tacos de pavo al ajillo",Carne,"Aves y pollo",1,3.58,3.58,3.81
+2022-10-13,12838037,"Tacos de pavo al ajillo",Carne,"Aves y pollo",1,3.58,3.58,3.81
+2021-11-11,10404138,"Medallones solomillo de pavo",Carne,"Aves y pollo",1,3.52,3.52,3.39
+2021-11-11,10404138,"Medallones solomillo de pavo",Carne,"Aves y pollo",1,3.45,3.45,3.39
+2022-10-06,12793662,"Filetes pechuga de pollo corte fino",Carne,"Aves y pollo",1,4.51,4.51,4.28
+2022-10-06,12793662,"Filetes pechuga de pollo corte fino",Carne,"Aves y pollo",1,4.19,4.19,4.28
+2023-03-04,13879881,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,6.77,6.77,6.95
+2023-02-25,13821013,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,6.07,6.07,6.95
+2023-02-18,13759447,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,7.67,7.67,6.95
+2023-02-11,13703740,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,7.32,7.32,6.95
+2023-02-04,13640454,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,5.54,5.54,6.95
+2023-01-28,13580934,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,5.99,5.99,6.95
+2023-01-21,13546313,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,8.19,8.19,6.95
+2023-01-04,13397754,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,5.99,5.99,6.95
+2022-12-28,13374140,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,6.2,6.2,6.95
+2022-12-14,13253776,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,6.28,6.28,6.95
+2022-12-07,13220829,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,7.56,7.56,6.95
+2022-10-31,12950475,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,3.03,3.03,6.95
+2022-10-31,12950475,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,3.96,3.96,6.95
+2022-10-20,12878660,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.49,4.49,6.95
+2022-10-20,12878660,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,3.36,3.36,6.95
+2022-10-20,12878660,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.1,4.1,6.95
+2022-10-13,12838037,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.53,4.53,6.95
+2022-10-13,12838037,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.54,4.54,6.95
+2022-10-06,12793662,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.32,4.32,6.95
+2022-10-06,12793662,"Pechugas enteras de pollo",Carne,"Aves y pollo",1,4.4,4.4,6.95
+2020-06-18,5857032,"Cuartos traseros de pollo",Carne,"Aves y pollo",1,3.9,3.9,2.72
+2021-09-07,9115773,"Jamoncitos de pollo",Carne,"Aves y pollo",1,2.6,2.6,3.59
+2020-10-12,7119732,"Alas partidas de pollo",Carne,"Aves y pollo",1,2.38,2.38,3.23
+2021-08-05,8403972,"Alas partidas de pollo",Carne,"Aves y pollo",1,2.71,2.71,3.23
+2020-10-20,6858326,"Alas partidas de pollo",Carne,"Aves y pollo",1,2.79,2.79,3.23
+2022-11-16,13069090,"Flautas de pollo y queso",Carne,"Aves y pollo",1,1.6,1.6,2
+2022-11-16,13069090,"Flautas de pollo y queso",Carne,"Aves y pollo",1,1.6,1.6,2
+2021-11-11,10404138,"Pollo entero",Carne,"Aves y pollo",1,4.95,4.95,6.17
+2023-03-04,13879881,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2023-02-25,13821013,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.39,3.39,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.8,3.8,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.54,4.54,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.06,4.06,4.52
+2023-02-04,13640454,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.25,4.25,4.52
+2023-01-28,13580934,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.67,3.67,4.52
+2023-01-21,13546313,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.61,3.61,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.49,4.49,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.6,3.6,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.93,3.93,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.32,4.32,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.61,3.61,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.9,3.9,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.69,3.69,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.68,3.68,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.81,3.81,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.73,3.73,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.82,4.82,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.04,4.04,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.85,3.85,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.75,4.75,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.82,3.82,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.02,4.02,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.55,3.55,4.52
+2022-10-06,12793662,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.32,4.32,4.52
+2023-03-04,13879881,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2023-02-25,13821013,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.39,3.39,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.8,3.8,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.54,4.54,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.06,4.06,4.52
+2023-02-04,13640454,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.25,4.25,4.52
+2023-01-28,13580934,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.67,3.67,4.52
+2023-01-21,13546313,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.61,3.61,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.49,4.49,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.6,3.6,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.93,3.93,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.32,4.32,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.61,3.61,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.98,3.98,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.9,3.9,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.69,3.69,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.68,3.68,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.81,3.81,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.73,3.73,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.82,4.82,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.04,4.04,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.85,3.85,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.75,4.75,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.82,3.82,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.02,4.02,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,3.55,3.55,4.52
+2022-10-06,12793662,"Medallones pechuga de pollo marinado",Carne,"Aves y pollo",1,4.32,4.32,4.52
+2023-03-18,13996475,"Fajitas pollo y verduras",Carne,"Aves y pollo",3,11.97,3.99,3.99
+2023-03-11,13945376,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-03-04,13879881,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-02-04,13640454,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-01-28,13580934,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-01-21,13546313,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-01-14,13507140,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2023-01-04,13397754,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-12-21,13315781,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-12-14,13253776,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-11-30,13151497,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-11-16,13069090,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-10-31,12950475,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-10-20,12878660,"Fajitas pollo y verduras",Carne,"Aves y pollo",2,7.98,3.99,3.99
+2022-10-06,12793662,"Fajitas pollo y verduras",Carne,"Aves y pollo",1,3.99,3.99,3.99
+2022-02-22,11422261,"Filetes lomo de cerdo",Carne,Cerdo,1,3.49,3.49,2.84
+2022-11-30,13151497,"Lomo de cerdo adobado",Carne,Cerdo,1,3.16,3.16,3.38
+2022-11-30,13151497,"Lomo de cerdo adobado",Carne,Cerdo,1,3.16,3.16,3.38
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,Cerdo,1,3.51,3.51,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,Cerdo,1,3.63,3.63,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,Cerdo,1,3.51,3.51,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,Cerdo,1,3.63,3.63,4.14
+2022-10-31,12950475,"Chuletas lomo de cerdo",Carne,Cerdo,1,1.81,1.81,3.1
+2020-10-20,6858326,"Lomo de cerdo ibérico",Carne,Cerdo,1,5.32,5.32,6.26
+2021-09-07,9115773,"Chuletas de cordero palo y riñonada",Carne,"Conejo y cordero",1,6.6,6.6,19.38
+2021-08-05,8403972,"Chuletas de cordero palo y riñonada",Carne,"Conejo y cordero",1,6.39,6.39,19.38
+2020-10-12,7119732,"Chuletas de cordero pierna",Carne,"Conejo y cordero",1,6.84,6.84,15.2
+2021-11-11,10404138,"Chuletas de cordero pierna",Carne,"Conejo y cordero",1,9.4,9.4,15.2
+2020-01-10,302316,"Morcilla de cebolla oreada",Carne,Embutido,1,1.34,1.34,1.9
+2019-02-27,125935,"Morcilla de cebolla oreada",Carne,Embutido,1,1.48,1.48,1.9
+2018-04-12,73955,"Morcilla de cebolla oreada",Carne,Embutido,1,1.39,1.39,1.9
+2019-01-31,107492,"Morcilla de cebolla oreada",Carne,Embutido,1,1.36,1.36,1.9
+2018-11-13,61858,"Morcilla de cebolla oreada",Carne,Embutido,1,1.39,1.39,1.9
+2021-09-09,101295,"Morcilla de cebolla oreada",Carne,Embutido,1,1.54,1.54,1.9
+2019-06-19,207666,"Morcilla de cebolla oreada",Carne,Embutido,1,1.39,1.39,1.9
+2022-10-06,12793662,"Burger de vacuno",Carne,"Hamburguesas y picadas",1,4.18,4.18,4.4
+2020-10-01,466635,"Burger de vacuno gruesas",Carne,"Hamburguesas y picadas",2,6.24,3.12,3.78
+2023-01-04,13397754,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",1,6.7,6.7,6.5
+2022-12-28,13374140,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",1,6.7,6.7,6.5
+2022-12-14,13253776,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",1,5.74,5.74,6.5
+2022-11-30,13151497,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",1,5.74,5.74,6.5
+2022-11-23,13117832,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",1,5.74,5.74,6.5
+2022-11-16,13069090,"Preparado de carne picada vacuno y cerdo",Carne,"Hamburguesas y picadas",2,11.48,5.74,6.5
+2023-03-04,13879881,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-02-25,13821013,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-02-18,13759447,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-02-11,13703740,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-02-04,13640454,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-01-28,13580934,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-01-21,13546313,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2023-01-14,13507140,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,7.45,7.45,7.3
+2022-10-31,12950475,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,6.18,6.18,7.3
+2022-10-20,12878660,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",2,12.36,6.18,7.3
+2022-10-13,12838037,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,6.18,6.18,7.3
+2022-10-06,12793662,"Preparado de carne picada vacuno",Carne,"Hamburguesas y picadas",1,6.18,6.18,7.3
+2022-02-22,11422261,"Albóndigas de pollo",Carne,"Hamburguesas y picadas",1,3,3,6.2
+2022-12-12,13266605,"Albóndigas de pollo",Carne,"Hamburguesas y picadas",1,3.75,3.75,6.2
+2022-07-10,12804912,"Albóndigas de pollo",Carne,"Hamburguesas y picadas",1,3.6,3.6,6.2
+2022-10-20,12878660,"Tacos de vacuno añojo para guisar",Carne,Vacuno,1,6.16,6.16,7.38
+2022-10-20,12878660,"Tacos de vacuno añojo para guisar",Carne,Vacuno,1,5.47,5.47,7.38
+2020-10-20,6858326,"Carpaccio de vacuno",Carne,Vacuno,1,4.64,4.64,3.75
+2021-09-02,7475015,"Carpaccio de vacuno",Carne,Vacuno,1,5,5,3.75
+2022-11-16,13069090,"Flautas de pollo y queso",Carne,"Empanados y elaborados",1,1.6,1.6,2
+2022-11-16,13069090,"Flautas de pollo y queso",Carne,"Empanados y elaborados",1,1.6,1.6,2
+2022-11-30,13151497,"Lomo de cerdo adobado",Carne,"Empanados y elaborados",1,3.16,3.16,3.38
+2022-11-30,13151497,"Lomo de cerdo adobado",Carne,"Empanados y elaborados",1,3.16,3.16,3.38
+2023-03-04,13879881,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2023-02-25,13821013,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.39,3.39,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.8,3.8,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.54,4.54,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.06,4.06,4.52
+2023-02-04,13640454,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.25,4.25,4.52
+2023-01-28,13580934,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.67,3.67,4.52
+2023-01-21,13546313,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.61,3.61,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.49,4.49,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.6,3.6,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.93,3.93,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.32,4.32,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.61,3.61,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.9,3.9,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.69,3.69,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.68,3.68,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.81,3.81,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.73,3.73,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.82,4.82,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.04,4.04,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.85,3.85,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.75,4.75,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.82,3.82,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.02,4.02,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.55,3.55,4.52
+2022-10-06,12793662,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.32,4.32,4.52
+2023-03-04,13879881,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2023-02-25,13821013,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.39,3.39,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2023-02-18,13759447,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.8,3.8,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.54,4.54,4.52
+2023-02-11,13703740,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.06,4.06,4.52
+2023-02-04,13640454,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.25,4.25,4.52
+2023-01-28,13580934,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.67,3.67,4.52
+2023-01-21,13546313,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.61,3.61,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.49,4.49,4.52
+2022-12-28,13374140,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.6,3.6,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.93,3.93,4.52
+2022-12-21,13315781,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.32,4.32,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.61,3.61,4.52
+2022-12-14,13253776,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.98,3.98,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.9,3.9,4.52
+2022-11-30,13151497,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.69,3.69,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.68,3.68,4.52
+2022-11-23,13117832,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.81,3.81,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.73,3.73,4.52
+2022-11-16,13069090,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.64,4.64,4.52
+2022-11-09,13029815,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.82,4.82,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.04,4.04,4.52
+2022-10-31,12950475,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.85,3.85,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.75,4.75,4.52
+2022-10-20,12878660,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.82,3.82,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.02,4.02,4.52
+2022-10-13,12838037,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,3.55,3.55,4.52
+2022-10-06,12793662,"Medallones pechuga de pollo marinado",Carne,"Empanados y elaborados",1,4.32,4.32,4.52
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,"Empanados y elaborados",1,3.51,3.51,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,"Empanados y elaborados",1,3.63,3.63,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,"Empanados y elaborados",1,3.51,3.51,4.14
+2022-10-13,12838037,"Medallones preparado de solomillo cerdo provenzal",Carne,"Empanados y elaborados",1,3.63,3.63,4.14
+2022-11-30,13151497,"Pechugas de pavo pimentón",Carne,"Empanados y elaborados",1,5.09,5.09,4.92
+2022-11-30,13151497,"Pechugas de pavo pimentón",Carne,"Empanados y elaborados",1,5.09,5.09,4.92
+2022-10-13,12838037,"Tacos de pavo al ajillo",Carne,"Empanados y elaborados",1,3.58,3.58,3.81
+2022-10-13,12838037,"Tacos de pavo al ajillo",Carne,"Empanados y elaborados",1,3.58,3.58,3.81
+2022-12-07,13220829,"Cereales rellenos de chocolate y avellana Hacendado","Cereales y galletas",Cereales,1,1.95,1.95,2.15
+2022-11-30,13151497,"Cereales rellenos de chocolate y avellana Hacendado","Cereales y galletas",Cereales,1,1.95,1.95,2.15
+2022-11-16,13069090,"Cereales rellenos de chocolate y avellana Hacendado","Cereales y galletas",Cereales,1,1.95,1.95,2.15
+2022-11-09,13029815,"Cereales rellenos de chocolate y avellana Hacendado","Cereales y galletas",Cereales,1,1.95,1.95,2.15
+2022-10-20,12878660,"Cereales rellenos de chocolate y avellana Hacendado","Cereales y galletas",Cereales,1,1.95,1.95,2.15
+2022-02-22,11422261,"Cereales copos de maíz Corn Flakes Kellogg's","Cereales y galletas",Cereales,1,2.6,2.6,3
+2022-10-31,12950475,"Cereales rellenos de crema de cacao y avellana Hacendado sin gluten","Cereales y galletas",Cereales,1,2.1,2.1,2.25
+2023-01-28,13580934,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,2,2,2.1
+2022-12-14,13253776,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-11-30,13151497,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-11-23,13117832,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-11-16,13069090,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-11-09,13029815,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-10-31,12950475,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2022-10-13,12838037,"Muesli Crunchy Hacendado con frutos secos","Cereales y galletas",Cereales,1,1.75,1.75,2.1
+2020-06-18,5857032,"Cereales con salvado de trigo Fibra Sticks Hacendado","Cereales y galletas",Cereales,1,1.35,1.35,1.8
+2022-11-16,13069090,"Muesli Hacendado con quinoa, chía y chocolate negro","Cereales y galletas",Cereales,1,1.95,1.95,2.25
+2022-11-09,13029815,"Barritas Sustitutivo de comida Belladieta sabor avena y chocolate con leche","Cereales y galletas",Cereales,1,3.1,3.1,3.1
+2022-11-09,13029815,"Barritas Sustitutivo de comida Belladieta sabor avena y chocolate con leche","Cereales y galletas",Cereales,1,3.1,3.1,3.1
+2023-01-11,13449668,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2022-10-31,12950475,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2022-10-06,12793662,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2023-01-11,13449668,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2022-10-31,12950475,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2022-10-06,12793662,"Barrita con proteínas Enervit Sport sabor chocolate negro","Cereales y galletas",Cereales,1,4.9,4.9,4.9
+2022-11-16,13069090,"Galletas mini Oreo","Cereales y galletas",Galletas,1,1.65,1.65,1.95
+2023-03-18,13996475,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-03-11,13945376,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-03-04,13879881,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-02-25,13821013,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-02-18,13759447,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-02-11,13703740,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-01-14,13507140,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2023-01-04,13397754,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2022-12-28,13374140,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2022-12-21,13315781,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2022-12-14,13253776,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2022-12-07,13220829,"Barquillos con crema de avellanas Hacendado","Cereales y galletas",Galletas,1,1.5,1.5,1.5
+2018-11-13,61858,"Tortitas de maíz Hacendado","Cereales y galletas",Tortitas,1,0.85,0.85,1.1
+2022-07-13,996926,"Pechuga de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.19,3.19,3.37
+2022-09-28,470822,"Pechuga de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.15,3.15,3.37
+2022-12-14,13253776,"Pechuga de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.15,3.15,3.37
+2022-11-16,13069090,"Pechuga de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.15,3.15,3.37
+2022-10-31,12950475,"Pechuga de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.15,3.15,3.37
+2022-10-20,12878660,"Tiras de pechuga pollo al horno Hacendado","Charcutería y quesos","Aves y jamón cocido",2,4,2,2.05
+2020-11-07,959862,"Jamón de pavo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,1.89,1.89,1.66
+2021-09-07,9115773,"Pechuga de pavo al horno de leña Campofrío lonchas","Charcutería y quesos","Aves y jamón cocido",4,6.2,1.55,1.75
+2021-08-05,8403972,"Pechuga de pavo al horno de leña Campofrío lonchas","Charcutería y quesos","Aves y jamón cocido",3,4.65,1.55,1.75
+2021-09-02,7475015,"Pechuga de pavo al horno de leña Campofrío lonchas","Charcutería y quesos","Aves y jamón cocido",4,6.2,1.55,1.75
+2020-10-20,6858326,"Pechuga de pollo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,4.02,4.02,2.11
+2021-09-02,7475015,"Pechuga de pollo Hacendado finas lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.53,3.53,2.11
+2020-10-01,466635,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.08,3.08,2.04
+2022-07-13,996926,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.17,3.17,2.04
+2020-11-18,546427,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,2.99,2.99,2.04
+2022-09-28,470822,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,3.09,3.09,2.04
+2019-10-04,156155,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,2.99,2.99,2.04
+2018-11-13,61858,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,2.99,2.99,2.04
+2021-12-16,10822769,"Jamón cocido extra Hacendado lonchas","Charcutería y quesos","Aves y jamón cocido",1,2.89,2.89,2.04
+2019-02-27,125935,"Salami extra Hacendado lonchas","Charcutería y quesos","Embutido curado",1,1.39,1.39,1.97
+2019-05-22,185199,"Salami extra Hacendado lonchas","Charcutería y quesos","Embutido curado",1,1.39,1.39,1.97
+2018-11-13,61858,"Salami extra Hacendado lonchas","Charcutería y quesos","Embutido curado",1,1.39,1.39,1.97
+2022-12-14,13253776,"Helado almendrado Hacendado",Congelados,Helados,1,2.5,2.5,2.75
+2022-11-30,13151497,"Helado almendrado Hacendado",Congelados,Helados,1,2.5,2.5,2.75
+2022-10-31,12950475,"Helado almendrado Hacendado",Congelados,Helados,1,2.2,2.2,2.75
+2022-10-13,12838037,"Helado almendrado Hacendado",Congelados,Helados,1,2.2,2.2,2.75
+2022-11-09,13029815,"Helado mochi sabor coco Hacendado",Congelados,Helados,1,2.55,2.55,2.8
+2023-01-21,13546313,"Helado vegetal mini a base de anacardo con crema de pistacho Hacendado",Congelados,Helados,1,2.7,2.7,2.95
+2022-11-30,13151497,"Helado mini cucurucho nata Hacendado",Congelados,Helados,1,2.55,2.55,2.8
+2022-10-06,12793662,"Filete de salmón rosado salvaje con piel Hacendado ultracongelado",Congelados,Pescado,1,2.76,2.76,3.58
+2022-10-06,12793662,"Filete de salmón rosado salvaje con piel Hacendado ultracongelado",Congelados,Pescado,1,2.76,2.76,3.58
+2021-12-16,10822769,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,1,3.98,3.98,4.95
+2021-09-07,9115773,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,2,10.5,5.25,4.95
+2021-08-05,8403972,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,1,3.98,3.98,4.95
+2022-02-22,11422261,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,2,11.9,5.95,4.95
+2020-06-18,5857032,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,1,5.98,5.98,4.95
+2022-12-12,13266605,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,2,12.7,6.35,4.95
+2022-07-10,12804912,"Tacos de bacalao MareDeus ultracongelado",Congelados,Pescado,2,11.9,5.95,4.95
+2022-02-22,11422261,"Relleno para kebab con carne de pollo asado Hacendado ultracongelado",Congelados,Rebozados,1,3.95,3.95,3.25
+2022-12-12,13266605,"Fingers de queso Hacendado ultracongelados",Congelados,Rebozados,1,2.7,2.7,2.4
+2023-01-21,13546313,"Tequeños de queso Hacendado ultracongelados",Congelados,Rebozados,1,4.65,4.65,4.9
+2020-06-18,5857032,"Mix de frutos rojos Hacendado ultracongeladas",Congelados,Verdura,1,3.85,3.85,1.5
+2022-12-12,13266605,"Ensaladilla Hacendado ultracongelada",Congelados,Verdura,1,1.8,1.8,1.2
+2023-02-18,13759447,"Cebolla troceada Hacendado ultracongelada",Congelados,Verdura,1,0.96,0.96,1.1
+2023-02-11,13703740,"Cebolla troceada Hacendado ultracongelada",Congelados,Verdura,1,0.96,0.96,1.1
+2022-12-14,13253776,"Cebolla troceada Hacendado ultracongelada",Congelados,Verdura,1,1,1,1.1
+2022-12-12,13266605,"Ajo tierno Hacendado ultracongelado",Congelados,Verdura,2,12.5,6.25,1.97
+2022-07-10,12804912,"Ajo tierno Hacendado ultracongelado",Congelados,Verdura,2,12.5,6.25,1.97
+2023-02-25,13821013,"Salteado de setas Hacendado ultracongeladas",Congelados,Verdura,1,1.73,1.73,1.65
+2023-02-04,13640454,"Salteado de setas Hacendado ultracongeladas",Congelados,Verdura,1,1.73,1.73,1.65
+2023-01-14,13507140,"Salteado de setas Hacendado ultracongeladas",Congelados,Verdura,1,1.73,1.73,1.65
+2022-12-14,13253776,"Salteado de setas Hacendado ultracongeladas",Congelados,Verdura,1,1.8,1.8,1.65
+2023-02-25,13821013,"Pimiento rojo y verde Hacendado ultracongelado",Congelados,Verdura,1,1.06,1.06,1.3
+2023-01-11,13449668,"Pimiento rojo y verde Hacendado ultracongelado",Congelados,Verdura,1,1.06,1.06,1.3
+2022-12-07,13220829,"Pimiento rojo y verde Hacendado ultracongelado",Congelados,Verdura,1,1.1,1.1,1.3
+2021-12-16,10822769,"Ajo troceado Hacendado ultracongelado",Congelados,Verdura,1,3.62,3.62,1
+2019-05-09,278125,"Tempura de verduras Hacendado ultracongelada",Congelados,Verdura,1,1.85,1.85,2.7
+2018-04-12,73955,"Jamón serrano Incarlopsa lonchas extrafinas","Charcutería y quesos","Jamón serrano",1,1.99,1.99,2.55
+2018-11-13,61858,"Jamón serrano Incarlopsa lonchas extrafinas","Charcutería y quesos","Jamón serrano",1,1.99,1.99,2.55
+2023-02-04,13640454,"Jamón serrano Incarlopsa lonchas","Charcutería y quesos","Jamón serrano",1,3.58,3.58,4.1
+2022-12-28,13374140,"Jamón serrano Incarlopsa lonchas","Charcutería y quesos","Jamón serrano",1,3.58,3.58,4.1
+2022-11-30,13151497,"Jamón serrano Incarlopsa lonchas","Charcutería y quesos","Jamón serrano",1,3.58,3.58,4.1
+2022-11-16,13069090,"Jamón serrano Incarlopsa lonchas","Charcutería y quesos","Jamón serrano",1,3.49,3.49,4.1
+2022-10-31,12950475,"Paleta curada lonchas Paletas Marpa","Charcutería y quesos","Jamón serrano",1,3.87,3.87,4.1
+2018-11-13,61858,"Queso grana padano Zanetti","Charcutería y quesos","Queso curado, semicurado y tierno",1,1.4,1.4,3.45
+2018-11-13,61858,"Queso curado y cheddar Hacendado en dados","Charcutería y quesos","Queso curado, semicurado y tierno",1,0.99,0.99,1.05
+2019-06-20,208575,"Tabla de quesos nacionales Hacendado","Charcutería y quesos","Queso curado, semicurado y tierno",4,15,3.75,4.95
+2020-06-18,5857032,"Queso viejo gouda Hacendado","Charcutería y quesos","Queso curado, semicurado y tierno",1,3,3,3.75
+2020-11-18,546427,"Queso emmental de vaca Hacendado","Charcutería y quesos","Queso curado, semicurado y tierno",1,2.15,2.15,2.85
+2021-09-07,9115773,"Queso emmental de vaca Hacendado","Charcutería y quesos","Queso curado, semicurado y tierno",1,2.15,2.15,2.85
+2022-09-28,470822,"Queso tierno bajo en sal mezcla Hacendado","Charcutería y quesos","Queso curado, semicurado y tierno",1,2.71,2.71,3.66
+2020-11-07,959862,"Queso tierno gouda de vaca Holland","Charcutería y quesos","Queso curado, semicurado y tierno",1,2.6,2.6,3.3
+2021-09-07,9115773,"Queso lonchas tierno mezcla Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.8,1.8,2.39
+2021-08-05,8403972,"Queso lonchas tierno mezcla Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.15,2.15,2.39
+2021-09-02,7475015,"Queso lonchas tierno mezcla Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.9,1.9,2.39
+2019-02-27,125935,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.56,2.56,2.8
+2019-05-22,185199,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.48,2.48,2.8
+2020-11-18,546427,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.58,2.58,2.8
+2019-01-31,107492,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.58,2.58,2.8
+2018-11-13,61858,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.57,2.57,2.8
+2020-12-15,686714,"Queso light Havarti Hacendado lonchas","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.58,2.58,2.8
+2019-02-27,125935,"Queso lonchas de cabra Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.66,2.66,3.14
+2019-01-31,107492,"Queso lonchas de cabra Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,3.14,3.14,3.14
+2019-06-19,207666,"Queso lonchas de cabra Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.57,2.57,3.14
+2023-01-14,13507140,"Queso lonchas cheddar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.92,1.92,1.75
+2022-11-16,13069090,"Queso lonchas cheddar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.9,1.9,1.75
+2022-11-09,13029815,"Queso lonchas cheddar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.9,1.9,1.75
+2022-10-20,12878660,"Queso lonchas cheddar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.9,1.9,1.75
+2023-02-04,13640454,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.35,2.35,2.99
+2022-12-21,13315781,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.44,2.44,2.99
+2022-12-14,13253776,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.37,2.37,2.99
+2022-11-30,13151497,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.44,2.44,2.99
+2022-11-23,13117832,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.23,2.23,2.99
+2022-11-16,13069090,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.52,2.52,2.99
+2022-11-09,13029815,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.48,2.48,2.99
+2022-10-31,12950475,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.42,2.42,2.99
+2022-10-06,12793662,"Queso lonchas de oveja Entrepinares","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,2.39,2.39,2.99
+2019-02-27,125935,"Queso rallado emmental gratinar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1,1,1.63
+2021-09-07,9115773,"Queso rallado emmental gratinar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1,1,1.63
+2021-08-05,8403972,"Queso rallado emmental gratinar de vaca Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1,1,1.63
+2022-10-20,12878660,"Queso en polvo grana padano Hacendado","Charcutería y quesos","Queso lonchas, rallado y en porciones",1,1.7,1.7,1.6
+2020-06-18,5857032,"Queso untar original Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2020-01-10,302316,"Queso untar light Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2019-02-27,125935,"Queso untar light Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2019-11-01,95302,"Queso untar light Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2018-11-13,61858,"Queso untar light Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2020-08-27,134160,"Queso untar light Philadelphia","Charcutería y quesos","Queso untable y fresco",1,2.1,2.1,2.74
+2019-02-27,125935,"Mozzarella fresca de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",2,1.6,0.8,0.95
+2019-05-22,185199,"Mozzarella fresca de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",2,1.6,0.8,0.95
+2019-01-31,107492,"Mozzarella fresca de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",2,1.6,0.8,0.95
+2021-02-18,22016,"Mozzarella fresca de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",1,0.8,0.8,0.95
+2019-05-09,278125,"Queso feta mezcla Hacendado en dados","Charcutería y quesos","Queso untable y fresco",1,1.7,1.7,2.35
+2020-11-07,959862,"Queso fresco de vaca Burgo de Arias","Charcutería y quesos","Queso untable y fresco",1,2.19,2.19,2.99
+2020-01-10,302316,"Mozzarella fresca de vaca Hacendado en perlas","Charcutería y quesos","Queso untable y fresco",1,1.7,1.7,1.91
+2020-10-22,404271,"Mozzarella fresca de vaca Hacendado en perlas","Charcutería y quesos","Queso untable y fresco",1,1.7,1.7,1.91
+2020-12-15,686714,"Mozzarella fresca de vaca Hacendado en perlas","Charcutería y quesos","Queso untable y fresco",1,1.7,1.7,1.91
+2021-09-07,9115773,"Mozzarella fresca de vaca Hacendado en perlas","Charcutería y quesos","Queso untable y fresco",2,3.4,1.7,1.91
+2022-10-13,12838037,"Queso fresco para ensaladas de vaca Hacendado en dados","Charcutería y quesos","Queso untable y fresco",1,1.9,1.9,1.95
+2022-03-25,11614628,"Queso ricotta mezcla Hacendado","Charcutería y quesos","Queso untable y fresco",1,4.49,4.49,1.8
+2022-12-12,13266605,"Queso ricotta mezcla Hacendado","Charcutería y quesos","Queso untable y fresco",1,5.06,5.06,1.8
+2022-07-10,12804912,"Queso ricotta mezcla Hacendado","Charcutería y quesos","Queso untable y fresco",1,4.9,4.9,1.8
+2021-12-16,10822769,"Queso ricotta mezcla Hacendado","Charcutería y quesos","Queso untable y fresco",1,4.23,4.23,1.8
+2022-02-22,11422261,"Queso ricotta mezcla Hacendado","Charcutería y quesos","Queso untable y fresco",1,4.34,4.34,1.8
+2022-10-20,12878660,"Burrata fresca Hacendado","Charcutería y quesos","Queso untable y fresco",1,2.4,2.4,2.2
+2022-12-28,13374140,"Queso rulo de cabra Hacendado","Charcutería y quesos","Queso untable y fresco",1,2.35,2.35,2.4
+2022-03-25,11614628,"Queso azul de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",1,2.6,2.6,2.1
+2021-12-16,10822769,"Queso azul de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",1,2.51,2.51,2.1
+2022-02-22,11422261,"Queso azul de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",1,2.93,2.93,2.1
+2022-07-10,12804912,"Queso azul de vaca Hacendado","Charcutería y quesos","Queso untable y fresco",1,1.91,1.91,2.1
+2023-02-25,13821013,"Queso de cabra Président en medallones","Charcutería y quesos","Queso untable y fresco",1,3.32,3.32,3.32
+2023-01-21,13546313,"Queso de cabra Président en medallones","Charcutería y quesos","Queso untable y fresco",1,3.32,3.32,3.32
+2023-01-11,13449668,"Queso de cabra Président en medallones","Charcutería y quesos","Queso untable y fresco",1,3.32,3.32,3.32
+2023-01-04,13397754,"Queso de cabra Président en medallones","Charcutería y quesos","Queso untable y fresco",1,3.32,3.32,3.32
+2018-11-13,61858,"Queso de cabra Montesinos","Charcutería y quesos","Queso untable y fresco",1,3.95,3.95,3.17
+2023-03-11,13945376,"Atún en aceite de girasol Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,13.6,6.8,6.65
+2020-01-10,302316,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,7.98,3.99,5.45
+2019-02-27,125935,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2019-01-31,107492,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,7.98,3.99,5.45
+2022-09-28,470822,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,9.3,4.65,5.45
+2021-09-28,209834,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.95,3.95,5.45
+2019-10-04,156155,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2018-11-13,61858,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2021-09-09,101295,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.95,3.95,5.45
+2020-08-27,134160,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2022-07-13,996926,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,9.3,4.65,5.45
+2021-10-19,337881,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.95,3.95,5.45
+2021-09-07,9115773,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",2,8,4,5.45
+2020-08-28,140937,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2021-02-18,22016,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.9,3.9,5.45
+2020-06-18,5857032,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.35,3.35,5.45
+2022-12-12,13266605,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,4.8,4.8,5.45
+2020-11-07,959862,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,3.99,3.99,5.45
+2022-02-22,11422261,"Atún claro en aceite de oliva Hacendado","Conservas, caldos y cremas","Atún y otras conservas de pescado",1,4.3,4.3,5.45
+2020-06-18,5857032,"Berberecho al natural XS Hacendado","Conservas, caldos y cremas","Berberechos y mejillones",2,5.8,2.9,2.6
+2022-07-13,996926,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3.5,1.75,2.4
+2022-09-28,470822,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,4,2,2.4
+2022-09-11,786946,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",1,2,2,2.4
+2021-09-07,9115773,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3.2,1.6,2.4
+2021-08-05,8403972,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3.2,1.6,2.4
+2020-10-20,6858326,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3,1.5,2.4
+2020-06-18,5857032,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3,1.5,2.4
+2021-09-02,7475015,"Mejillones en escabeche Hacendado medianos","Conservas, caldos y cremas","Berberechos y mejillones",2,3,1.5,2.4
+2019-02-27,125935,"Espárragos muy gruesos Hacendado enteros","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.53,2.53,3
+2018-04-12,73955,"Espárragos muy gruesos Hacendado enteros","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.53,2.53,3
+2018-11-13,61858,"Espárragos muy gruesos Hacendado enteros","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.53,2.53,3
+2020-10-22,404271,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.3,2.3,1.85
+2020-11-18,546427,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.3,2.3,1.85
+2022-09-28,470822,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",2,5.6,2.8,1.85
+2020-12-15,686714,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.3,2.3,1.85
+2021-09-09,101295,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.3,2.3,1.85
+2022-09-11,786946,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.8,2.8,1.85
+2020-08-27,134160,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",2,4.6,2.3,1.85
+2022-07-13,996926,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,1.6,1.6,1.85
+2020-11-07,959862,"Corazones de alcachofas Hacendado","Conservas, caldos y cremas","Conservas de verdura y frutas",1,2.3,2.3,1.85
+2022-12-12,13266605,"Sopa de pollo Gallina Blanca con fideos finos","Conservas, caldos y cremas","Sopa y caldo",1,3.45,3.45,0.85
+2019-11-01,95302,"Caldo de pollo Avecrem en pastillas","Conservas, caldos y cremas","Sopa y caldo",1,2.6,2.6,2.95
+2019-11-01,95302,"Caldo de verduras Hacendado en pastillas","Conservas, caldos y cremas","Sopa y caldo",1,0.44,0.44,0.85
+2018-11-13,61858,"Caldo de verduras Hacendado en pastillas","Conservas, caldos y cremas","Sopa y caldo",1,0.44,0.44,0.85
+2020-01-10,302316,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2019-02-27,125935,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2018-04-12,73955,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2022-07-13,996926,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.85,1.85,2.4
+2019-01-31,107492,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2022-09-28,470822,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,2.2,2.2,2.4
+2018-11-13,61858,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,2,3.4,1.7,2.4
+2021-09-09,101295,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,2,3.4,1.7,2.4
+2022-09-11,786946,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,2.15,2.15,2.4
+2020-08-27,134160,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2019-06-19,207666,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2020-01-10,302316,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2019-02-27,125935,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2018-04-12,73955,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2022-07-13,996926,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.85,1.85,2.4
+2019-01-31,107492,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2022-09-28,470822,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,2.2,2.2,2.4
+2018-11-13,61858,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,2,3.4,1.7,2.4
+2021-09-09,101295,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,2,3.4,1.7,2.4
+2022-09-11,786946,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,2.15,2.15,2.4
+2020-08-27,134160,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2019-06-19,207666,"Tomate frito receta artesana Hacendado","Conservas, caldos y cremas",Tomate,1,1.7,1.7,2.4
+2019-06-20,208575,"Tomate troceado pelado Hacendado","Conservas, caldos y cremas",Tomate,3,1.86,0.62,0.9
+2023-03-18,13996475,"Acondicionador Repara & Protege Pantene","Cuidado del cabello","Acondicionador y mascarilla",1,3.8,3.8,3.6
+2023-03-11,13945376,"Acondicionador Repara & Protege Pantene","Cuidado del cabello","Acondicionador y mascarilla",1,3.8,3.8,3.6
+2023-01-04,13397754,"Acondicionador Repara & Protege Pantene","Cuidado del cabello","Acondicionador y mascarilla",1,3,3,3.6
+2022-07-10,12804912,"Mascarilla Liss Frizz Control Deliplus cabello rebelde","Cuidado del cabello","Acondicionador y mascarilla",1,2,2,2.15
+2020-06-18,5857032,"Mascarilla sin aclarado Curl Perfect Deliplus cabello rizado","Cuidado del cabello","Acondicionador y mascarilla",1,4.05,4.05,4
+2023-03-11,13945376,"Sérum Anticaída Deliplus","Cuidado del cabello","Acondicionador y mascarilla",1,1.95,1.95,6.95
+2022-10-13,12838037,"Sérum Anticaída Deliplus","Cuidado del cabello","Acondicionador y mascarilla",1,1.95,1.95,6.95
+2022-12-12,13266605,"Champú Volumen Deliplus cabello fino y sin volumen","Cuidado del cabello",Champú,1,1.7,1.7,2.35
+2022-07-10,12804912,"Champú Volumen Deliplus cabello fino y sin volumen","Cuidado del cabello",Champú,1,1.7,1.7,2.35
+2023-02-18,13759447,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2023-02-11,13703740,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2023-01-21,13546313,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-12-21,13315781,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-12-07,13220829,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-11-09,13029815,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.5,1.5,1.55
+2022-10-20,12878660,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.5,1.5,1.55
+2023-02-18,13759447,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2023-02-11,13703740,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2023-01-21,13546313,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-12-21,13315781,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-12-07,13220829,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.55,1.55,1.55
+2022-11-09,13029815,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.5,1.5,1.55
+2022-10-20,12878660,"Papel higiénico húmedo WC Bosque Verde","Cuidado facial y corporal","Cuidado corporal",1,1.5,1.5,1.55
+2019-02-27,125935,"Discos desmaquillantes Deliplus redondos algodón 100%","Cuidado facial y corporal","Cuidado e higiene facial",1,0.95,0.95,1.15
+2020-10-22,404271,"Discos desmaquillantes Deliplus redondos algodón 100%","Cuidado facial y corporal","Cuidado e higiene facial",2,1.9,0.95,1.15
+2018-04-12,73955,"Discos desmaquillantes Deliplus redondos algodón 100%","Cuidado facial y corporal","Cuidado e higiene facial",1,0.95,0.95,1.15
+2020-06-07,935378,"Discos desmaquillantes Deliplus redondos algodón 100%","Cuidado facial y corporal","Cuidado e higiene facial",2,1.9,0.95,1.15
+2019-01-31,107492,"Discos desmaquillantes Deliplus redondos algodón 100%","Cuidado facial y corporal","Cuidado e higiene facial",2,1.9,0.95,1.15
+2020-09-18,238052,"Desmaquillador de ojos y labios bifásico Waterproof Facial Clean Deliplus","Cuidado facial y corporal","Cuidado e higiene facial",1,2.15,2.15,2
+2020-10-12,7119732,"Leche facial limpiadora Facial Clean Deliplus","Cuidado facial y corporal","Cuidado e higiene facial",1,3.95,3.95,1.5
+2020-10-12,7119732,"Mousse facial limpiadora purificante Deliplus Oil Free","Cuidado facial y corporal","Cuidado e higiene facial",1,1.95,1.95,4
+2022-12-12,13266605,"Crema facial Dragon's Blood Anti Ox Deliplus FPS 12","Cuidado facial y corporal","Cuidado e higiene facial",1,5,5,5
+2021-09-02,7475015,"Bandas de cera especial piernas Deliplus piel sensible","Cuidado facial y corporal",Depilación,1,1.2,1.2,1.65
+2022-11-09,13029815,"Barritas Sustitutivo de comida Belladieta sabor avena y chocolate con leche","Fitoterapia y parafarmacia",Fitoterapia,1,3.1,3.1,3.1
+2022-11-09,13029815,"Barritas Sustitutivo de comida Belladieta sabor avena y chocolate con leche","Fitoterapia y parafarmacia",Fitoterapia,1,3.1,3.1,3.1
+2023-01-11,13449668,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2022-10-31,12950475,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2022-10-06,12793662,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2023-01-11,13449668,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2022-10-31,12950475,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2022-10-06,12793662,"Barrita con proteínas Enervit Sport sabor chocolate negro","Fitoterapia y parafarmacia",Fitoterapia,1,4.9,4.9,4.9
+2023-03-18,13996475,Banana,"Fruta y verdura",Fruta,3,0.75,0.25,0.25
+2023-03-11,13945376,Banana,"Fruta y verdura",Fruta,3,0.79,0.2633333333333333,0.25
+2023-03-04,13879881,Banana,"Fruta y verdura",Fruta,5,1.42,0.284,0.25
+2023-02-25,13821013,Banana,"Fruta y verdura",Fruta,5,1.24,0.248,0.25
+2023-02-18,13759447,Banana,"Fruta y verdura",Fruta,5,1.32,0.264,0.25
+2023-02-11,13703740,Banana,"Fruta y verdura",Fruta,5,1.14,0.2279999999999999,0.25
+2023-02-04,13640454,Banana,"Fruta y verdura",Fruta,5,1.49,0.298,0.25
+2023-01-28,13580934,Banana,"Fruta y verdura",Fruta,3,0.88,0.2933333333333333,0.25
+2023-01-21,13546313,Banana,"Fruta y verdura",Fruta,5,1.21,0.242,0.25
+2023-01-14,13507140,Banana,"Fruta y verdura",Fruta,4,0.98,0.245,0.25
+2023-01-11,13449668,Banana,"Fruta y verdura",Fruta,6,1.72,0.2866666666666667,0.25
+2023-01-04,13397754,Banana,"Fruta y verdura",Fruta,5,1.33,0.266,0.25
+2022-12-28,13374140,Banana,"Fruta y verdura",Fruta,3,0.71,0.2366666666666666,0.25
+2022-12-21,13315781,Banana,"Fruta y verdura",Fruta,3,0.83,0.2766666666666666,0.25
+2022-12-14,13253776,Banana,"Fruta y verdura",Fruta,5,1.15,0.2299999999999999,0.25
+2022-12-07,13220829,Banana,"Fruta y verdura",Fruta,3,0.83,0.2766666666666666,0.25
+2022-11-30,13151497,Banana,"Fruta y verdura",Fruta,6,1.82,0.3033333333333333,0.25
+2022-11-23,13117832,Banana,"Fruta y verdura",Fruta,6,1.64,0.2733333333333333,0.25
+2022-11-16,13069090,Banana,"Fruta y verdura",Fruta,6,1.61,0.2683333333333333,0.25
+2022-11-09,13029815,Banana,"Fruta y verdura",Fruta,7,1.77,0.2528571428571428,0.25
+2022-10-31,12950475,Banana,"Fruta y verdura",Fruta,8,2.13,0.26625,0.25
+2022-10-20,12878660,Banana,"Fruta y verdura",Fruta,8,2.23,0.27875,0.25
+2022-10-13,12838037,Banana,"Fruta y verdura",Fruta,6,1.11,0.185,0.25
+2022-10-06,12793662,Banana,"Fruta y verdura",Fruta,6,1.63,0.2716666666666666,0.25
+2019-02-27,125935,"Plátano macho","Fruta y verdura",Fruta,6,2.2,0.3666666666666667,0.87
+2020-10-22,404271,"Plátano macho","Fruta y verdura",Fruta,6,1.94,0.3233333333333333,0.87
+2018-04-12,73955,"Plátano macho","Fruta y verdura",Fruta,4,1.82,0.455,0.87
+2019-05-22,185199,"Plátano macho","Fruta y verdura",Fruta,5,1.77,0.354,0.87
+2019-11-01,95302,"Plátano macho","Fruta y verdura",Fruta,4,1.11,0.2775,0.87
+2020-12-15,686714,"Plátano macho","Fruta y verdura",Fruta,5,1.96,0.392,0.87
+2020-08-28,140937,"Plátano macho","Fruta y verdura",Fruta,6,1.79,0.2983333333333333,0.87
+2020-09-18,238052,"Plátano macho","Fruta y verdura",Fruta,6,1.8,0.3,0.87
+2022-12-07,13220829,"Plátano macho","Fruta y verdura",Fruta,2,1.29,0.645,0.87
+2022-11-30,13151497,"Plátano macho","Fruta y verdura",Fruta,2,1.51,0.755,0.87
+2022-10-31,12950475,"Plátano macho","Fruta y verdura",Fruta,2,1.23,0.615,0.87
+2022-10-13,12838037,"Plátano macho","Fruta y verdura",Fruta,3,2.32,0.7733333333333333,0.87
+2022-10-06,12793662,"Plátano macho","Fruta y verdura",Fruta,3,2.03,0.6766666666666666,0.87
+2022-12-28,13374140,"Uva roja sin semillas","Fruta y verdura",Fruta,1,2.52,2.52,2.45
+2022-12-14,13253776,Mandarina,"Fruta y verdura",Fruta,4,1,0.25,0.26
+2022-12-14,13253776,Mandarina,"Fruta y verdura",Fruta,4,1,0.25,3.78
+2023-03-18,13996475,Aguacates,"Fruta y verdura",Fruta,1,2.41,2.41,2.69
+2023-03-11,13945376,Aguacates,"Fruta y verdura",Fruta,1,3.08,3.08,2.69
+2023-03-04,13879881,Aguacates,"Fruta y verdura",Fruta,1,2.91,2.91,2.69
+2023-02-25,13821013,Aguacates,"Fruta y verdura",Fruta,1,2.77,2.77,2.69
+2023-02-18,13759447,Aguacates,"Fruta y verdura",Fruta,1,2.63,2.63,2.69
+2023-02-11,13703740,Aguacates,"Fruta y verdura",Fruta,1,2.61,2.61,2.69
+2023-02-04,13640454,Aguacates,"Fruta y verdura",Fruta,1,2.98,2.98,2.69
+2023-01-28,13580934,Aguacates,"Fruta y verdura",Fruta,1,2.55,2.55,2.69
+2023-01-21,13546313,Aguacates,"Fruta y verdura",Fruta,1,2.62,2.62,2.69
+2023-01-11,13449668,Aguacates,"Fruta y verdura",Fruta,1,2.55,2.55,2.69
+2023-01-04,13397754,Aguacates,"Fruta y verdura",Fruta,1,2.52,2.52,2.69
+2022-12-28,13374140,Aguacates,"Fruta y verdura",Fruta,1,2.89,2.89,2.69
+2022-12-21,13315781,Aguacates,"Fruta y verdura",Fruta,1,2.72,2.72,2.69
+2022-12-14,13253776,Aguacates,"Fruta y verdura",Fruta,1,2.67,2.67,2.69
+2022-12-07,13220829,Aguacates,"Fruta y verdura",Fruta,1,2.45,2.45,2.69
+2022-11-30,13151497,Aguacates,"Fruta y verdura",Fruta,1,2.57,2.57,2.69
+2022-11-23,13117832,Aguacates,"Fruta y verdura",Fruta,1,2.33,2.33,2.69
+2022-11-16,13069090,Aguacates,"Fruta y verdura",Fruta,1,2.45,2.45,2.69
+2022-11-09,13029815,Aguacates,"Fruta y verdura",Fruta,1,2.28,2.28,2.69
+2022-10-31,12950475,Aguacates,"Fruta y verdura",Fruta,1,2.99,2.99,2.69
+2022-10-20,12878660,Aguacates,"Fruta y verdura",Fruta,1,2.52,2.52,2.69
+2022-10-13,12838037,Aguacates,"Fruta y verdura",Fruta,1,2.61,2.61,2.69
+2022-10-06,12793662,Aguacates,"Fruta y verdura",Fruta,1,2.9,2.9,2.69
+2022-10-06,12793662,Aguacates,"Fruta y verdura",Fruta,1,3.03,3.03,2.69
+2023-03-18,13996475,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-03-11,13945376,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-02-25,13821013,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-02-18,13759447,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-02-11,13703740,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-01-28,13580934,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2023-01-21,13546313,Arándanos,"Fruta y verdura",Fruta,1,2.78,2.78,3.15
+2022-12-07,13220829,Arándanos,"Fruta y verdura",Fruta,1,2.89,2.89,3.15
+2022-11-09,13029815,Arándanos,"Fruta y verdura",Fruta,1,2.89,2.89,3.15
+2021-09-07,9115773,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",2,1.98,0.99,1.59
+2022-02-22,11422261,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,0.99,0.99,1.59
+2023-03-04,13879881,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-02-25,13821013,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-02-18,13759447,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-02-11,13703740,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-02-04,13640454,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-01-28,13580934,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-01-21,13546313,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-01-14,13507140,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-01-11,13449668,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2023-01-04,13397754,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.68,1.68,1.59
+2022-12-28,13374140,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-12-21,13315781,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-12-14,13253776,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-12-07,13220829,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-11-30,13151497,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-11-23,13117832,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-11-16,13069090,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-11-09,13029815,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-10-31,12950475,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-10-20,12878660,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-10-13,12838037,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2022-10-06,12793662,"Ensalada mezcla brotes tiernos maxi","Fruta y verdura","Lechuga y ensalada preparada",1,1.75,1.75,1.59
+2020-10-22,404271,Patatas,"Fruta y verdura",Verdura,1,3.85,3.85,4.9
+2020-10-01,466635,Patatas,"Fruta y verdura",Verdura,1,3.95,3.95,4.9
+2022-07-13,996926,Patatas,"Fruta y verdura",Verdura,1,4.4,4.4,4.9
+2022-09-28,470822,Patatas,"Fruta y verdura",Verdura,1,4.4,4.4,4.9
+2020-10-12,7119732,Patatas,"Fruta y verdura",Verdura,1,4.79,4.79,4.9
+2021-09-07,9115773,Patatas,"Fruta y verdura",Verdura,1,4.19,4.19,4.9
+2021-08-05,8403972,Patatas,"Fruta y verdura",Verdura,1,4.99,4.99,4.9
+2020-10-20,6858326,Patatas,"Fruta y verdura",Verdura,1,4.79,4.79,4.9
+2022-12-12,13266605,Patatas,"Fruta y verdura",Verdura,1,5.49,5.49,4.9
+2021-09-02,7475015,Patatas,"Fruta y verdura",Verdura,1,4.79,4.79,4.9
+2021-12-16,10822769,Patatas,"Fruta y verdura",Verdura,2,9.58,4.79,4.9
+2022-02-22,11422261,Patatas,"Fruta y verdura",Verdura,2,9.58,4.79,4.9
+2022-07-10,12804912,Patatas,"Fruta y verdura",Verdura,1,5.49,5.49,4.9
+2023-03-04,13879881,Patatas,"Fruta y verdura",Verdura,1,4.23,4.23,4.9
+2023-01-11,13449668,Patatas,"Fruta y verdura",Verdura,1,4.23,4.23,4.9
+2022-10-06,12793662,Patatas,"Fruta y verdura",Verdura,1,4.4,4.4,4.9
+2023-03-04,13879881,Patatas,"Fruta y verdura",Verdura,1,4.23,4.23,6.49
+2023-01-11,13449668,Patatas,"Fruta y verdura",Verdura,1,4.23,4.23,6.49
+2022-10-06,12793662,Patatas,"Fruta y verdura",Verdura,1,4.4,4.4,6.49
+2023-03-04,13879881,Batata,"Fruta y verdura",Verdura,2,1.91,0.955,0.67
+2022-12-21,13315781,"Patatas especial para freir","Fruta y verdura",Verdura,1,3.05,3.05,3.75
+2022-11-16,13069090,"Patatas especial para freir","Fruta y verdura",Verdura,1,3.05,3.05,3.75
+2023-02-04,13640454,Cebollas,"Fruta y verdura",Verdura,1,2.3,2.3,3.85
+2022-12-21,13315781,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,3.85
+2022-12-14,13253776,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,3.85
+2022-11-30,13151497,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,3.85
+2023-02-04,13640454,Cebollas,"Fruta y verdura",Verdura,1,2.3,2.3,2.39
+2022-12-21,13315781,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,2.39
+2022-12-14,13253776,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,2.39
+2022-11-30,13151497,Cebollas,"Fruta y verdura",Verdura,1,1.55,1.55,2.39
+2023-03-18,13996475,"Tomate pera","Fruta y verdura",Verdura,2,0.6,0.3,0.22
+2023-03-11,13945376,"Tomate pera","Fruta y verdura",Verdura,2,0.6,0.3,0.22
+2023-02-11,13703740,"Tomate pera","Fruta y verdura",Verdura,2,0.51,0.255,0.22
+2023-02-04,13640454,"Tomate pera","Fruta y verdura",Verdura,3,0.94,0.3133333333333333,0.22
+2023-01-28,13580934,"Tomate pera","Fruta y verdura",Verdura,1,0.26,0.26,0.22
+2023-01-21,13546313,"Tomate pera","Fruta y verdura",Verdura,1,0.26,0.26,0.22
+2023-01-14,13507140,"Tomate pera","Fruta y verdura",Verdura,1,0.25,0.25,0.22
+2023-01-11,13449668,"Tomate pera","Fruta y verdura",Verdura,3,0.71,0.2366666666666666,0.22
+2023-01-04,13397754,"Tomate pera","Fruta y verdura",Verdura,2,0.44,0.22,0.22
+2022-12-28,13374140,"Tomate pera","Fruta y verdura",Verdura,2,0.42,0.21,0.22
+2022-12-21,13315781,"Tomate pera","Fruta y verdura",Verdura,2,0.48,0.24,0.22
+2022-12-14,13253776,"Tomate pera","Fruta y verdura",Verdura,3,0.58,0.1933333333333333,0.22
+2022-12-07,13220829,"Tomate pera","Fruta y verdura",Verdura,1,0.25,0.25,0.22
+2022-11-30,13151497,"Tomate pera","Fruta y verdura",Verdura,2,0.37,0.185,0.22
+2022-11-23,13117832,"Tomate pera","Fruta y verdura",Verdura,2,0.33,0.165,0.22
+2022-11-16,13069090,"Tomate pera","Fruta y verdura",Verdura,2,0.43,0.215,0.22
+2022-10-20,12878660,"Tomate pera","Fruta y verdura",Verdura,2,0.37,0.185,0.22
+2022-10-13,12838037,"Tomate pera","Fruta y verdura",Verdura,2,0.35,0.175,0.22
+2022-10-06,12793662,"Tomate pera","Fruta y verdura",Verdura,4,0.77,0.1925,0.22
+2019-02-27,125935,"Tomates cherry","Fruta y verdura",Verdura,1,1.49,1.49,1.95
+2020-08-27,134160,"Tomate kumato negro","Fruta y verdura",Verdura,1,1.69,1.69,0.24
+2022-02-22,11422261,"Tomate kumato negro","Fruta y verdura",Verdura,1,1.77,1.77,0.24
+2023-03-18,13996475,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.78,1.78,1.99
+2023-03-11,13945376,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.78,1.78,1.99
+2023-02-18,13759447,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.78,1.78,1.99
+2023-02-11,13703740,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.78,1.78,1.99
+2023-02-04,13640454,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.78,1.78,1.99
+2023-01-21,13546313,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.68,1.68,1.99
+2023-01-11,13449668,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.68,1.68,1.99
+2022-11-30,13151497,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.75,1.75,1.99
+2022-11-23,13117832,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.75,1.75,1.99
+2022-11-16,13069090,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.75,1.75,1.99
+2022-10-20,12878660,"Palitos de zanahoria","Fruta y verdura",Verdura,2,3.5,1.75,1.99
+2022-10-06,12793662,"Palitos de zanahoria","Fruta y verdura",Verdura,1,1.6,1.6,1.99
+2023-02-04,13640454,"Pimiento rojo","Fruta y verdura",Verdura,1,1.03,1.03,1.1
+2023-01-28,13580934,"Pimiento rojo","Fruta y verdura",Verdura,1,0.95,0.95,1.1
+2023-01-21,13546313,"Pimiento rojo","Fruta y verdura",Verdura,1,0.88,0.88,1.1
+2023-01-14,13507140,"Pimiento rojo","Fruta y verdura",Verdura,1,0.92,0.92,1.1
+2023-01-11,13449668,"Pimiento rojo","Fruta y verdura",Verdura,1,0.86,0.86,1.1
+2022-12-28,13374140,"Pimiento rojo","Fruta y verdura",Verdura,1,0.72,0.72,1.1
+2022-11-23,13117832,"Pimiento rojo","Fruta y verdura",Verdura,1,1.13,1.13,1.1
+2022-11-16,13069090,"Pimiento rojo","Fruta y verdura",Verdura,1,0.98,0.98,1.1
+2022-12-21,13315781,"Pimiento verde freír","Fruta y verdura",Verdura,1,0.4,0.4,0.28
+2022-11-09,13029815,"Pimiento verde freír","Fruta y verdura",Verdura,1,0.26,0.26,0.28
+2022-11-16,13069090,"Pimientos semipicantes","Fruta y verdura",Verdura,1,1.15,1.15,1.35
+2022-11-09,13029815,"Champiñón laminado limpio","Fruta y verdura",Verdura,1,1.72,1.72,1.99
+2022-10-31,12950475,"Champiñón laminado limpio","Fruta y verdura",Verdura,1,1.55,1.55,1.99
+2022-10-20,12878660,"Champiñón laminado limpio","Fruta y verdura",Verdura,1,1.71,1.71,1.99
+2022-10-13,12838037,"Champiñón laminado limpio","Fruta y verdura",Verdura,1,1.5,1.5,1.99
+2022-10-13,12838037,Jengibre,"Fruta y verdura",Verdura,1,1.66,1.66,1.69
+2022-12-07,13220829,Cilantro,"Fruta y verdura",Verdura,1,1.25,1.25,1.25
+2023-03-04,13879881,"Judía verde redonda","Fruta y verdura",Verdura,1,2.2,2.2,2.99
+2023-02-25,13821013,"Judía verde redonda","Fruta y verdura",Verdura,1,2.2,2.2,2.99
+2023-02-18,13759447,"Judía verde redonda","Fruta y verdura",Verdura,1,2.2,2.2,2.99
+2023-02-11,13703740,"Judía verde redonda","Fruta y verdura",Verdura,1,2.2,2.2,2.99
+2023-01-21,13546313,"Judía verde redonda","Fruta y verdura",Verdura,1,2.2,2.2,2.99
+2022-12-21,13315781,"Judía verde redonda","Fruta y verdura",Verdura,1,2.29,2.29,2.99
+2022-11-30,13151497,"Judía verde redonda","Fruta y verdura",Verdura,1,2.29,2.29,2.99
+2022-10-31,12950475,"Judía verde redonda","Fruta y verdura",Verdura,1,2.29,2.29,2.99
+2022-10-20,12878660,"Judía verde redonda","Fruta y verdura",Verdura,1,2.15,2.15,2.99
+2022-10-06,12793662,"Judía verde redonda","Fruta y verdura",Verdura,1,2.15,2.15,2.99
+2022-12-21,13315781,"Calabaza cacahuete cortada a trozos","Fruta y verdura",Verdura,1,1.93,1.93,1.8
+2022-12-07,13220829,"Calabaza cacahuete cortada a trozos","Fruta y verdura",Verdura,1,2.15,2.15,1.8
+2022-11-16,13069090,"Calabaza cacahuete cortada a trozos","Fruta y verdura",Verdura,1,1.79,1.79,1.8
+2022-10-20,12878660,"Calabaza cacahuete cortada a trozos","Fruta y verdura",Verdura,1,1.6,1.6,1.8
+2023-01-21,13546313,"Apio verde","Fruta y verdura",Verdura,1,1.21,1.21,1.26
+2023-01-28,13580934,"Remolacha cocida y pelada","Fruta y verdura",Verdura,2,1.7,0.85,0.99
+2022-11-23,13117832,"Remolacha cocida y pelada","Fruta y verdura",Verdura,2,1.7,0.85,0.99
+2022-11-16,13069090,"Remolacha cocida y pelada","Fruta y verdura",Verdura,2,1.7,0.85,0.99
+2022-10-20,12878660,"Remolacha cocida y pelada","Fruta y verdura",Verdura,2,1.7,0.85,0.99
+2022-10-13,12838037,"Remolacha cocida y pelada","Fruta y verdura",Verdura,2,1.6,0.8,0.99
+2023-03-18,13996475,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-03-11,13945376,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-03-04,13879881,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-02-25,13821013,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-02-18,13759447,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-02-11,13703740,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-02-04,13640454,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-01-28,13580934,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-01-21,13546313,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-01-14,13507140,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-01-11,13449668,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2023-01-04,13397754,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.26,3.26,3.69
+2022-12-21,13315781,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.39,3.39,3.69
+2022-12-14,13253776,"Espárrago verde grueso","Fruta y verdura",Verdura,1,3.39,3.39,3.69
+2022-12-07,13220829,"Espárrago verde grueso","Fruta y verdura",Verdura,2,6.78,3.39,3.69
+2022-11-30,13151497,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-11-23,13117832,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-11-16,13069090,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-10-31,12950475,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-10-20,12878660,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-10-13,12838037,"Espárrago verde grueso","Fruta y verdura",Verdura,2,5.98,2.99,3.69
+2022-10-06,12793662,"Espárrago verde grueso","Fruta y verdura",Verdura,1,2.99,2.99,3.69
+2019-02-27,125935,"Floretas de brócoli para microondas","Fruta y verdura",Verdura,1,1.2,1.2,1.52
+2019-01-31,107492,"Floretas de brócoli para microondas","Fruta y verdura",Verdura,1,1.2,1.2,1.52
+2019-02-27,125935,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2020-10-22,404271,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2020-10-01,466635,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2018-04-12,73955,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2019-01-31,107492,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2022-09-28,470822,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,2.15,2.15,2.2
+2020-08-27,134160,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2019-06-19,207666,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2022-07-13,996926,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,2.15,2.15,2.2
+2020-09-16,6598904,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2020-10-12,7119732,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,2,5.2,2.6,2.2
+2021-09-07,9115773,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,3,8.85,2.95,2.2
+2021-08-05,8403972,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,2.6,2.6,2.2
+2021-02-18,22016,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,0.95,0.95,2.2
+2020-06-30,911112,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,1.45,1.45,2.2
+2022-12-12,13266605,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,4.25,4.25,2.2
+2021-11-11,10404138,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,2,5.9,2.95,2.2
+2022-02-22,11422261,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,2,5.9,2.95,2.2
+2022-07-10,12804912,"Huevos grandes L","Huevos, leche y mantequilla",Huevos,1,3.95,3.95,2.2
+2023-02-18,13759447,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.94,0.97,0.93
+2023-02-11,13703740,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.94,0.97,0.93
+2023-02-04,13640454,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.94,0.97,0.93
+2023-01-28,13580934,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.94,0.97,0.93
+2023-01-21,13546313,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,0.97,0.97,0.93
+2023-01-14,13507140,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,0.97,0.97,0.93
+2023-01-04,13397754,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,0.97,0.97,0.93
+2022-12-28,13374140,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.01,1.01,0.93
+2022-12-21,13315781,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",3,3.03,1.01,0.93
+2022-12-14,13253776,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,2.02,1.01,0.93
+2022-11-30,13151497,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.01,1.01,0.93
+2022-11-23,13117832,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",3,2.88,0.96,0.93
+2022-11-16,13069090,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",3,2.88,0.96,0.93
+2022-11-09,13029815,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.92,0.96,0.93
+2022-10-31,12950475,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.82,0.91,0.93
+2022-10-20,12878660,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.82,0.91,0.93
+2022-10-13,12838037,"Leche desnatada sin lactosa Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",2,1.82,0.91,0.93
+2020-06-30,911112,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,6.9,6.9,1.35
+2020-11-07,959862,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,6.9,6.9,1.35
+2023-03-04,13879881,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.45,1.45,1.35
+2023-02-25,13821013,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.45,1.45,1.35
+2023-01-28,13580934,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.45,1.45,1.35
+2023-01-14,13507140,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.45,1.45,1.35
+2023-01-04,13397754,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.45,1.45,1.35
+2022-12-21,13315781,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.4,1.4,1.35
+2022-12-14,13253776,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.4,1.4,1.35
+2022-12-07,13220829,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.4,1.4,1.35
+2022-10-20,12878660,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.4,1.4,1.35
+2022-10-13,12838037,"Bebida de almendras zero Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.4,1.4,1.35
+2022-12-07,13220829,"Leche de coco Dee Thai","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.5,1.5,1.4
+2022-12-07,13220829,"Leche de coco Dee Thai","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,1.5,1.5,1.4
+2022-11-09,13029815,"Bebida de avena con café Hacendado","Huevos, leche y mantequilla","Leche y bebidas vegetales",1,0.9,0.9,0.9
+2022-10-20,12878660,"Mantequilla sin sal añadida Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.95,1.95,1.9
+2023-03-04,13879881,"Mantequilla con sal Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,2.1,2.1,2.45
+2022-12-28,13374140,"Mantequilla con sal Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,2.15,2.15,2.45
+2022-12-07,13220829,"Leche de coco Dee Thai","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.5,1.5,1.4
+2022-12-07,13220829,"Leche de coco Dee Thai","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.5,1.5,1.4
+2020-10-01,466635,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2018-04-12,73955,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2019-05-22,185199,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2019-01-31,107492,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2019-06-19,207666,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2021-08-05,8403972,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.32,1.32,2.4
+2022-02-22,11422261,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.4,1.4,2.4
+2022-12-12,13266605,"Nata ligera para cocinar sin lactosa Hacendado","Huevos, leche y mantequilla","Mantequilla y margarina",1,1.75,1.75,2.4
+2021-06-30,8994847,"Detergente Lavado a Mano Bosque Verde en polvo","Limpieza y hogar","Detergente y suavizante ropa",1,1.89,1.89,1.15
+2022-02-22,11422261,"Detergente Lavado a Mano Bosque Verde en polvo","Limpieza y hogar","Detergente y suavizante ropa",1,2.1,2.1,1.15
+2023-01-04,13397754,"Disuelve manchas Bosque Verde","Limpieza y hogar","Detergente y suavizante ropa",1,2.1,2.1,2
+2023-01-04,13397754,"Activador quitamanchas ropa de color Oxi Active Bosque Verde en polvo","Limpieza y hogar","Detergente y suavizante ropa",1,3.1,3.1,3.1
+2023-01-04,13397754,"Activador Blanqueante ropa blanca Bosque Verde en polvo","Limpieza y hogar","Detergente y suavizante ropa",1,3.1,3.1,3.1
+2021-04-16,8135057,"Activador del lavado ropa blanca Oxi Active Bosque Verde en gel","Limpieza y hogar","Detergente y suavizante ropa",1,1.6,1.6,1.75
+2020-07-11,6947878,"Activador del lavado ropa blanca Oxi Active Bosque Verde en gel","Limpieza y hogar","Detergente y suavizante ropa",1,1.6,1.6,1.75
+2020-10-09,6519926,"Bayeta suave multiusos Bosque Verde","Limpieza y hogar","Estropajo, bayeta y guantes",2,2,1,1.2
+2019-05-09,278125,"Guantes de látex Bosque Verde talla pequeña","Limpieza y hogar","Estropajo, bayeta y guantes",1,0.7,0.7,0.7
+2021-10-14,10076002,"Guantes de nitrilo Bosque Verde talla mediana","Limpieza y hogar","Estropajo, bayeta y guantes",1,1.6,1.6,3
+2023-03-04,13879881,"Ambientador spray Ropa Limpia Bosque Verde","Limpieza y hogar","Insecticida y ambientador",1,1.3,1.3,1.25
+2023-01-21,13546313,"Ambientador automático Ropa Limpia Bosque Verde","Limpieza y hogar","Insecticida y ambientador",1,1.9,1.9,1.8
+2022-11-16,13069090,"Ambientador automático Ropa Limpia Bosque Verde","Limpieza y hogar","Insecticida y ambientador",1,1.9,1.9,1.8
+2022-12-14,13253776,"Vela perfumada Té Chai Bosque Verde","Limpieza y hogar","Insecticida y ambientador",1,1.65,1.65,1.85
+2021-04-16,8135057,"Recambio antihumedad con aromas cítricos Bosque Verde","Limpieza y hogar","Insecticida y ambientador",1,2,2,2
+2020-10-09,6519926,"Desatascador Turbo Bosque Verde en gel","Limpieza y hogar","Lejía y líquidos fuertes",1,1.2,1.2,1.7
+2019-02-27,125935,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2022-09-28,470822,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2019-11-01,95302,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2019-10-04,156155,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2022-09-11,786946,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2022-07-13,996926,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.15,1.15,1.1
+2021-10-14,10076002,"Limpiacristales y multiusos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1,1,1.1
+2022-10-20,12878660,"Toallitas limpiadoras de Cristales y Espejos Bosque Verde","Limpieza y hogar",Limpiacristales,1,1.25,1.25,1.25
+2018-04-12,73955,"Friegasuelos Pino Bosque Verde líquido","Limpieza y hogar","Limpiahogar y friegasuelos",1,0.68,0.68,0.95
+2019-11-01,95302,"Friegasuelos Spa Bosque Verde líquido","Limpieza y hogar","Limpiahogar y friegasuelos",1,1.05,1.05,0.95
+2019-10-04,156155,"Friegasuelos Spa Bosque Verde líquido","Limpieza y hogar","Limpiahogar y friegasuelos",1,1.05,1.05,0.95
+2021-11-11,10404138,"Cera suelos Bosque Verde","Limpieza y hogar","Limpiahogar y friegasuelos",1,2.5,2.5,2.3
+2021-06-30,8994847,"Colgador WC Azul perfume marino Bosque Verde","Limpieza y hogar","Limpieza baño y WC",1,1.2,1.2,1.25
+2021-04-16,8135057,"Colgador WC Azul perfume marino Bosque Verde","Limpieza y hogar","Limpieza baño y WC",1,1.2,1.2,1.25
+2019-01-31,107492,"Limpiador Antical Bosque Verde","Limpieza y hogar","Limpieza baño y WC",1,1.6,1.6,1.65
+2022-07-10,12804912,"Toallitas limpiadoras de baños Bosque Verde","Limpieza y hogar","Limpieza baño y WC",1,1.95,1.95,1.3
+2022-10-20,12878660,"Toallitas limpiadoras de baños Bosque Verde","Limpieza y hogar","Limpieza baño y WC",1,1.3,1.3,1.3
+2022-07-13,996926,"Limpiador Cal y Suciedad Cillit Bang","Limpieza y hogar","Limpieza baño y WC",1,3.9,3.9,3.9
+2021-10-14,10076002,"Limpiador Cal y Suciedad Cillit Bang","Limpieza y hogar","Limpieza baño y WC",1,2.99,2.99,3.9
+2020-07-11,6947878,"Limpiador Cal y Suciedad Cillit Bang","Limpieza y hogar","Limpieza baño y WC",1,2.99,2.99,3.9
+2020-11-18,546427,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",1,2.69,2.69,3.7
+2022-09-28,470822,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",1,3.4,3.4,3.7
+2020-12-15,686714,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",1,2.69,2.69,3.7
+2022-03-09,12549682,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",1,3.4,3.4,3.7
+2021-10-14,10076002,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",2,5.38,2.69,3.7
+2021-04-16,8135057,"Quitagrasas KH-7","Limpieza y hogar","Limpieza cocina",1,2.69,2.69,3.7
+2023-02-25,13821013,"Toallitas limpiadoras desengrasantes de Cocina Bosque Verde","Limpieza y hogar","Limpieza cocina",1,1.3,1.3,1.3
+2023-01-04,13397754,"Toallitas limpiadoras desengrasantes de Cocina Bosque Verde","Limpieza y hogar","Limpieza cocina",1,1.3,1.3,1.3
+2019-01-31,107492,"Limpiador Muebles jabonoso para Madera Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.45,1.45,1.55
+2022-03-09,12549682,"Toallitas limpiadoras de Muebles Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.6,1.6,1.35
+2021-10-14,10076002,"Toallitas limpiadoras de Muebles Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.6,1.6,1.35
+2022-03-18,11572189,"Toallitas limpiadoras de Muebles Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.6,1.6,1.35
+2020-07-11,6947878,"Toallitas limpiadoras de Muebles Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.6,1.6,1.35
+2022-11-16,13069090,"Toallitas limpiadoras de Muebles Bosque Verde","Limpieza y hogar","Limpieza muebles y multiusos",1,1.35,1.35,1.35
+2023-02-04,13640454,"Vinagre de Limpieza Bosque Verde concentrado","Limpieza y hogar","Limpieza muebles y multiusos",1,0.8,0.8,0.9
+2022-12-07,13220829,"Vinagre de Limpieza Bosque Verde concentrado","Limpieza y hogar","Limpieza muebles y multiusos",1,0.8,0.8,0.9
+2022-10-13,12838037,"Vinagre de Limpieza Bosque Verde concentrado","Limpieza y hogar","Limpieza muebles y multiusos",1,0.8,0.8,0.9
+2020-09-16,6598904,"Lavavajillas Aloe Bosque Verde concentrado","Limpieza y hogar","Limpieza vajilla",4,6.2,1.55,1.75
+2021-06-30,8994847,"Lavavajillas Aloe Bosque Verde concentrado","Limpieza y hogar","Limpieza vajilla",2,3.1,1.55,1.75
+2021-04-16,8135057,"Lavavajillas Aloe Bosque Verde concentrado","Limpieza y hogar","Limpieza vajilla",2,3.1,1.55,1.75
+2020-07-11,6947878,"Lavavajillas Aloe Bosque Verde concentrado","Limpieza y hogar","Limpieza vajilla",1,1.55,1.55,1.75
+2020-06-18,5857032,"Lavavajillas Aloe Bosque Verde concentrado","Limpieza y hogar","Limpieza vajilla",1,1.55,1.55,1.75
+2019-02-27,125935,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.8,2.8,3.8
+2019-05-22,185199,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.8,2.8,3.8
+2022-07-13,996926,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,3.25,3.25,3.8
+2020-11-18,546427,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.8,2.8,3.8
+2019-10-04,156155,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.8,2.8,3.8
+2020-12-15,686714,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.4,2.4,3.8
+2021-09-09,101295,"Lavavajillas Ultra Original Fairy líquido","Limpieza y hogar","Limpieza vajilla",1,2.4,2.4,3.8
+2020-10-22,404271,"Lavavajillas Todo en 1 Fairy en pastillas","Limpieza y hogar","Limpieza vajilla",1,4.5,4.5,4.45
+2020-08-27,134160,"Lavavajillas Todo en 1 Fairy en pastillas","Limpieza y hogar","Limpieza vajilla",1,4.5,4.5,4.45
+2019-06-19,207666,"Abrillantador lavavajillas líquido Essential Finish","Limpieza y hogar","Limpieza vajilla",1,4.45,4.45,3.95
+2023-01-11,13449668,"Papel de Aluminio Bosque Verde","Limpieza y hogar","Menaje y conservación de alimentos",1,2.3,2.3,2.1
+2022-12-07,13220829,"Papel vegetal Bosque Verde","Limpieza y hogar","Menaje y conservación de alimentos",1,1.7,1.7,1.7
+2022-07-10,12804912,"Bolsas Congelación medianas Bosque Verde","Limpieza y hogar","Menaje y conservación de alimentos",1,0.8,0.8,0.85
+2020-10-12,7119732,"Bolsas Zip Congelación medianas Bosque Verde","Limpieza y hogar","Menaje y conservación de alimentos",1,1.1,1.1,1.2
+2018-04-12,73955,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,0.99,0.99,1.3
+2019-06-20,208575,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",2,2.6,1.3,1.3
+2023-02-25,13821013,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.4,1.4,1.3
+2023-01-28,13580934,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.4,1.4,1.3
+2022-12-21,13315781,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.4,1.4,1.3
+2022-11-30,13151497,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,2.2,2.2,1.3
+2022-11-09,13029815,"Servilleta papel Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,2.2,2.2,1.3
+2019-10-04,156155,"Papel Multiusos Resistente Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,2.89,2.89,3.35
+2020-01-10,302316,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",2,7.64,3.82,4.4
+2019-02-27,125935,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.74,3.74,4.4
+2020-10-22,404271,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.82,3.82,4.4
+2018-04-12,73955,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.74,3.74,4.4
+2019-01-31,107492,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.74,3.74,4.4
+2022-09-28,470822,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.75,4.75,4.4
+2021-09-28,209834,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.95,3.95,4.4
+2021-09-09,101295,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.95,3.95,4.4
+2022-09-11,786946,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,5,5,4.4
+2020-08-27,134160,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.82,3.82,4.4
+2022-07-13,996926,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.9,4.9,4.4
+2020-09-16,6598904,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",3,11.46,3.82,4.4
+2021-06-30,8994847,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",4,15.28,3.82,4.4
+2022-03-18,11572189,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",5,21.5,4.3,4.4
+2021-04-16,8135057,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",4,15.28,3.82,4.4
+2021-12-16,10822769,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.95,3.95,4.4
+2021-09-07,9115773,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.95,3.95,4.4
+2021-08-05,8403972,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.82,3.82,4.4
+2021-02-18,22016,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.82,3.82,4.4
+2022-12-12,13266605,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",2,10,5,4.4
+2021-11-11,10404138,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.95,3.95,4.4
+2020-11-07,959862,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.82,3.82,4.4
+2022-02-22,11422261,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.3,4.3,4.4
+2022-07-10,12804912,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.75,4.75,4.4
+2022-10-06,12793662,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.75,4.75,4.4
+2022-10-06,12793662,"Papel higiénico Doble Rollo Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,4.75,4.75,2.25
+2023-02-18,13759447,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2023-02-11,13703740,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2023-01-21,13546313,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-12-21,13315781,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-12-07,13220829,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-11-09,13029815,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.5,1.5,1.55
+2022-10-20,12878660,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.5,1.5,1.55
+2023-02-18,13759447,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2023-02-11,13703740,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2023-01-21,13546313,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-12-21,13315781,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-12-07,13220829,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.55,1.55,1.55
+2022-11-09,13029815,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.5,1.5,1.55
+2022-10-20,12878660,"Papel higiénico húmedo WC Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.5,1.5,1.55
+2023-02-04,13640454,"Papel higiénico Suave Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.5,3.5,3.4
+2022-12-21,13315781,"Papel higiénico Suave Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,3.5,3.5,3.4
+2019-02-27,125935,"Pañuelos de papel Extra Suaves Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,1.05,1.05,1.3
+2020-11-07,959862,"Pañuelos de papel Extra Suaves Bosque Verde","Limpieza y hogar","Papel higiénico y celulosa",1,0.8,0.8,1.3
+2020-09-18,238052,"Bolsa de basura Bosque Verde 30L cubo mediano","Limpieza y hogar","Pilas y bolsas de basura",1,1.35,1.35,1.7
+2023-01-21,13546313,"Bolsa de basura envases Bosque Verde 30L cubo mediano","Limpieza y hogar","Pilas y bolsas de basura",1,1.65,1.65,1.65
+2022-09-28,470822,"Fregona Resistente y Absorbente Bosque Verde","Limpieza y hogar","Utensilios de limpieza y calzado",1,1.85,1.85,1.75
+2022-03-09,12549682,"Fregona Resistente y Absorbente Bosque Verde","Limpieza y hogar","Utensilios de limpieza y calzado",1,1.85,1.85,1.75
+2021-04-16,8135057,"Fregona Resistente y Absorbente Bosque Verde","Limpieza y hogar","Utensilios de limpieza y calzado",2,3.4,1.7,1.75
+2022-07-10,12804912,"Máscara de pestañas Water Resistant Deliplus negro",Maquillaje,Ojos,1,3,3,4
+2022-02-22,11422261,"Anguriñas de surimi al ajillo Pescanova","Marisco y pescado",Marisco,1,3.85,3.85,2.24
+2022-10-06,12793662,"Filete de salmón rosado salvaje con piel Hacendado ultracongelado","Marisco y pescado","Pescado congelado",1,2.76,2.76,3.58
+2022-10-06,12793662,"Filete de salmón rosado salvaje con piel Hacendado ultracongelado","Marisco y pescado","Pescado congelado",1,2.76,2.76,3.58
+2020-10-12,7119732,"Trucha abierta en libro con cabeza","Marisco y pescado","Pescado fresco",1,2.1,2.1,3.13
+2023-01-11,13449668,"Salmón ahumado Hacendado","Marisco y pescado","Salazones y ahumados",1,12.23,12.23,10.8
+2019-05-22,185199,"Salmón marinado Hacendado","Marisco y pescado","Salazones y ahumados",1,2.35,2.35,3.5
+2020-11-18,546427,"Salmón marinado Hacendado","Marisco y pescado","Salazones y ahumados",1,2.35,2.35,3.5
+2019-01-31,107492,"Salmón marinado Hacendado","Marisco y pescado","Salazones y ahumados",1,2.35,2.35,3.5
+2020-12-15,686714,"Salmón marinado Hacendado","Marisco y pescado","Salazones y ahumados",1,2.35,2.35,3.5
+2020-09-18,238052,"Taquitos de salmón ahumado Hacendado","Marisco y pescado","Salazones y ahumados",1,2.84,2.84,3.8
+2022-12-07,13220829,"Snacks gato rellenos con salmón y malta Compy",Mascotas,Gato,1,1.1,1.1,1.1
+2021-11-11,10404138,"Snack gato barritas Compy de salmón y trucha",Mascotas,Gato,1,1.2,1.2,1.2
+2022-07-10,12804912,"Mini aritos perro adulto y sénior Compy",Mascotas,Perro,1,4,4,4.15
+2022-07-10,12804912,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,2.85,2.85,1.6
+2023-01-11,13449668,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2023-01-04,13397754,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-12-28,13374140,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-12-14,13253776,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-12-07,13220829,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-11-23,13117832,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-11-16,13069090,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2022-11-09,13029815,"6 Caracolas rellenas de cacao","Panadería y pastelería","Bollería de horno",1,1.6,1.6,1.6
+2020-08-27,134160,"Ensaimadas Hacendado","Panadería y pastelería","Bollería envasada",1,1.99,1.99,1.8
+2022-12-07,13220829,"Impulsor gasificante en polvo Royal uso alimentario","Panadería y pastelería","Harina y preparado repostería",1,2.25,2.25,2.25
+2022-11-16,13069090,"Gotas de chocolate negro para fundir Hacendado","Panadería y pastelería","Harina y preparado repostería",2,3.2,1.6,2
+2022-11-16,13069090,"Gotas de chocolate negro para fundir Hacendado","Panadería y pastelería","Harina y preparado repostería",2,3.2,1.6,2
+2021-12-16,10822769,"6 Panes de leche 3%","Panadería y pastelería","Pan de horno",1,5.64,5.64,1.6
+2020-12-15,686714,"Pan integral trigo 100% rebanado","Panadería y pastelería","Pan de horno",1,1.6,1.6,1.63
+2020-12-15,686714,"Pan de molde blanco Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.25,1.25,0.85
+2023-01-04,13397754,"Pan de molde 100% integral familiar Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.25,1.25,1.25
+2022-11-23,13117832,"Pan de molde 100% integral familiar Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.25,1.25,1.25
+2022-11-16,13069090,"Pan de molde 100% integral familiar Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.25,1.25,1.25
+2023-03-04,13879881,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2023-02-25,13821013,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2023-02-04,13640454,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2023-01-28,13580934,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2023-01-14,13507140,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2023-01-11,13449668,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-12-21,13315781,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-12-14,13253776,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-11-09,13029815,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-10-31,12950475,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-10-13,12838037,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2022-10-06,12793662,"Pan de molde 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,0.95,0.95,0.95
+2020-09-18,238052,"Pan redondo 5 semillas","Panadería y pastelería","Pan de molde y otras especialidades",1,1.45,1.45,1.75
+2022-09-28,470822,"Barra de pan tradicional","Panadería y pastelería","Pan de molde y otras especialidades",1,1.2,1.2,1.35
+2020-09-16,6598904,"Barra de pan tradicional","Panadería y pastelería","Pan de molde y otras especialidades",1,1.15,1.15,1.35
+2020-01-10,302316,"Pan de molde espelta 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.1,1.1,1.4
+2020-10-22,404271,"Pan de molde espelta 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.1,1.1,1.4
+2020-08-27,134160,"Pan de molde espelta 100% integral Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.1,1.1,1.4
+2023-03-04,13879881,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.6,1.6,1.6
+2023-02-04,13640454,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.6,1.6,1.6
+2023-01-14,13507140,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.6,1.6,1.6
+2023-01-11,13449668,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.6,1.6,1.6
+2022-12-21,13315781,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.6,1.6,1.6
+2022-11-16,13069090,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.55,1.55,1.6
+2022-10-20,12878660,"Maxi tortillas de trigo Hacendado","Panadería y pastelería","Pan de molde y otras especialidades",1,1.55,1.55,1.6
+2022-09-28,470822,"Palitos de pan 100% trigo espelta integral Anitin","Panadería y pastelería","Picos, rosquilletas y picatostes",1,1.35,1.35,1.35
+2022-10-06,12793662,"Quiche verduras Hacendado","Pizzas y platos preparados",Pizzas,1,2.2,2.2,3
+2022-11-16,13069090,"Lasaña boloñesa Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,2.65,2.65,2.65
+2022-11-30,13151497,"Arroz de secreto ibérico con setas Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,3,3,3
+2022-11-23,13117832,"Arroz de secreto ibérico con setas Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,3,3,3
+2022-11-16,13069090,"Arroz de secreto ibérico con setas Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,3,3,3
+2022-11-09,13029815,"Arroz de secreto ibérico con setas Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,2.85,2.85,3
+2022-10-20,12878660,"Arroz de secreto ibérico con setas Hacendado","Pizzas y platos preparados","Platos preparados calientes",2,5.7,2.85,3
+2022-10-20,12878660,"Pollo asado Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,6.55,6.55,5.2
+2022-10-20,12878660,"Pollo asado Hacendado","Pizzas y platos preparados","Platos preparados calientes",1,6.8,6.8,5.2
+2022-11-16,13069090,"Ensaladilla de cangrejo Hacendado","Pizzas y platos preparados","Platos preparados fríos",1,1.7,1.7,1.8
+2022-10-20,12878660,"Hummus de garbanzos Hacendado receta clásica","Pizzas y platos preparados","Platos preparados fríos",2,2.4,1.2,1.05
+2022-10-13,12838037,"Hummus de garbanzos Hacendado receta clásica","Pizzas y platos preparados","Platos preparados fríos",1,1.2,1.2,1.05
+2023-03-18,13996475,"Hummus de garbanzos Hacendado con pimiento del piquillo asado","Pizzas y platos preparados","Platos preparados fríos",1,1.45,1.45,1.45
+2023-03-11,13945376,"Hummus de garbanzos Hacendado con pimiento del piquillo asado","Pizzas y platos preparados","Platos preparados fríos",1,1.45,1.45,1.45
+2022-12-21,13315781,"Hummus de garbanzos Hacendado con pimiento del piquillo asado","Pizzas y platos preparados","Platos preparados fríos",1,1.45,1.45,1.45
+2023-02-04,13640454,"Hummus de garbanzos Hacendado con olivas de kalamata","Pizzas y platos preparados","Platos preparados fríos",1,1.45,1.45,1.45
+2022-12-21,13315781,"Natillas sabor vainilla +Proteínas Hacendado 12 g proteínas","Postres y yogures","Flan y natillas",1,1.7,1.7,1.75
+2022-12-21,13315781,"Natillas sabor vainilla +Proteínas Hacendado 12 g proteínas","Postres y yogures","Flan y natillas",1,1.7,1.7,1.75
+2022-12-07,13220829,"Natillas con chocolate +Proteínas Hacendado 1,3 g m.g 10 g proteínas","Postres y yogures","Flan y natillas",1,1.7,1.7,1.75
+2022-12-07,13220829,"Natillas con chocolate +Proteínas Hacendado 1,3 g m.g 10 g proteínas","Postres y yogures","Flan y natillas",1,1.7,1.7,1.75
+2022-07-13,996926,"Gelatina sabor fresa Hacendado","Postres y yogures","Gelatina y otros postres",1,0.85,0.85,1
+2021-12-16,10822769,"Crema catalana Hacendado","Postres y yogures","Gelatina y otros postres",1,1.4,1.4,2.6
+2022-12-07,13220829,"Natillas con chocolate +Proteínas Hacendado 1,3 g m.g 10 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.75
+2022-12-07,13220829,"Natillas con chocolate +Proteínas Hacendado 1,3 g m.g 10 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.75
+2022-12-21,13315781,"Natillas sabor vainilla +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.75
+2022-12-21,13315781,"Natillas sabor vainilla +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.75
+2023-03-18,13996475,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-03-11,13945376,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-03-04,13879881,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-02-25,13821013,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-02-18,13759447,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-02-11,13703740,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-02-04,13640454,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.95,1.95,1.9
+2023-01-28,13580934,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.9
+2023-01-21,13546313,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.9
+2023-01-14,13507140,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.9
+2023-01-11,13449668,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.9
+2023-01-04,13397754,"Pudding sabor caramelo +Proteínas Hacendado 12 g proteínas","Postres y yogures","Gelatina y otros postres",1,1.7,1.7,1.9
+2019-02-27,125935,"Yogur natural edulcorado Hacendado 0% m.g 0% sin azúcares añadidos","Postres y yogures","Yogures desnatados",1,0.79,0.79,1.1
+2019-01-31,107492,"Yogur natural edulcorado Hacendado 0% m.g 0% sin azúcares añadidos","Postres y yogures","Yogures desnatados",1,0.79,0.79,1.1
+2019-01-31,107492,"Yogur natural Hacendado 0% m.g 0% sin azúcares","Postres y yogures","Yogures desnatados",1,0.77,0.77,1.1
+2019-10-04,156155,"Yogur natural Hacendado 0% m.g 0% sin azúcares","Postres y yogures","Yogures desnatados",1,0.77,0.77,1.1
+2022-11-23,13117832,"Postre lácteo con arándanos +Proteínas Hacendado 0% m.g 10 g proteínas","Postres y yogures","Yogures desnatados",1,1.55,1.55,1.6
+2022-11-16,13069090,"Postre lácteo con arándanos +Proteínas Hacendado 0% m.g 10 g proteínas","Postres y yogures","Yogures desnatados",1,1.55,1.55,1.6
+2020-11-07,959862,"Yogur sabor fresa Hacendado 0% m.g 0% sin azúcares añadidos","Postres y yogures","Yogures desnatados",1,1.65,1.65,0.95
+2020-06-18,5857032,"Yogur natural azucarado La Fageda","Postres y yogures","Yogures naturales y sabores",1,1.4,1.4,2
+2021-12-16,10822769,"Zumo de piña Hacendado",Zumos,"Melocotón y piña",2,1.16,0.58,1.25
+2022-02-22,11422261,"Zumo de piña Hacendado",Zumos,"Melocotón y piña",2,1.4,0.7,1.25
+2023-01-11,13449668,"Zumo pura naranja Hacendado",Zumos,Naranja,2,2.1,1.05,1.75
+2021-09-07,9115773,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2020-08-28,140937,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2021-08-05,8403972,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2020-06-30,911112,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2020-09-18,238052,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2021-11-11,10404138,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
+2020-11-07,959862,"Zumo pura naranja con pulpa Hacendado",Zumos,Naranja,2,2,1,1.75
