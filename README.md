@@ -1,5 +1,8 @@
 # Exploring Evolution in Grocery Prices
 
+## Project Summary:
+This project, completed as the final assignment for my Ironhack Data Analytics Bootcamp, was awarded the Best Data Analytics Project in my cohort. Developed within 9 days, it compares grocery price evolution and trends between two supermarkets using web scraping, data transformation, and Tableau visualization.
+
 ## Objectives
 
 - Understand the current situation based on a reference supermarket.
