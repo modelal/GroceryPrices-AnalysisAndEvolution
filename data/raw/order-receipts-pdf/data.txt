@@ -1,0 +1,1 @@
+Receipt PDF documents have been ignored for containing persona data.
